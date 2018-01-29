@@ -1,0 +1,292 @@
+
+- title: "Tutorials"
+  sublinks:
+    - title: "Official PyTorch Tutorials"
+      url: "http://pytorch.org/tutorials"
+
+    - title: "Official TensorFlow Tutorials"
+      url: "https://www.tensorflow.org/tutorials"
+
+    - title: "Denny's Reinfocement Learning Tutorials"
+      -url: "https://github.com/dennybritz/reinforcement-learning"
+
+    - title: "How neural networks are trained"
+      url: "https://ml4a.github.io/ml4a/how_neural_networks_are_trained/"
+
+    - title: "Faster R-CNN: Down the rabbit hole of modern object detection"
+      url: "https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/"
+
+    - title: "Autonomous Driving Cookbook"
+      url: "https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning"
+
+    - title: "PyTorch Capsule Network Tutorial"
+      url: "https://github.com/higgsfield/Capsule-Network-Tutorial"
+
+    - title: "TensorFlow Examples"
+      url: "https://github.com/aymericdamien/TensorFlow-Examples"
+
+    - title: 'TensorFlow Tutorials'
+      url: "https://github.com/Hvass-Labs/TensorFlow-Tutorials"
+
+    - title: "Learn Pandas"
+      url: "https://github.com/tdpetrou/Learn-Pandas"
+
+    - title: "Real-time object detection with YOLO"
+      url: "http://machinethink.net/blog/object-detection-with-yolo/"
+
+    - title: "CapsNets Tutorial"
+      url: "https://www.youtube.com/watch?v=pPN8d0E3900&t=2s"
+
+    - title: "Deep Reinforcement Learning: Pong from Pixels"
+      url: "http://karpathy.github.io/2016/05/31/rl/"
+
+    - title: "The Unreasonable Effectiveness of Recurrent Neural Networks"
+      url: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+
+    - title: ""
+      url: ""
+
+    - title: ""
+      url: ""
+
+    - title: ""
+      url: ""
+
+    - title: ""
+      url: ""
+
+- title: "Source Code"
+  sublinks:
+    - title: "Poincare Embeddings"
+      url: "https://github.com/facebookresearch/poincare-embeddings"
+
+    - title: "Official PyTorch Models"
+      url: "https://github.com/pytorch/vision/tree/master/torchvision/models"
+
+    - title: "Detectron"
+      url: "https://github.com/facebookresearch/Detectron"
+
+    - title: "VisualDL"
+      url: "https://github.com/PaddlePaddle/VisualDL"
+
+    - title: "faster-rcnn.pytorch"
+      url: "https://github.com/jwyang/faster-rcnn.pytorch"
+
+    - title: "Ray"
+      url: "https://github.com/ray-project/ray"
+
+    - title: "Horovod"
+      url: "https://github.com/uber/horovod"
+
+    - title: "PRML Python Solution"
+      url: "https://github.com/ctgk/PRML"
+
+    - title: "DeepSpeech"
+      url: "https://github.com/mozilla/DeepSpeech"
+
+    - title: "Mask RCNN"
+      url: "https://github.com/matterport/Mask_RCNN"
+
+    - title: "ML from Scratch"
+      url: "https://github.com/eriklindernoren/ML-From-Scratch"
+
+    - title: "darknet"
+      url: "https://github.com/pjreddie/darknet"
+
+    - title: "Pyro"
+      url: "https://github.com/uber/pyro"
+
+    - title: ""
+      url: ""
+
+    - title: ""
+      url: ""
+
+- title: "Papers"
+  sublinks:
+    - title: "Deep Learning for Sentiment Analysis: A Survey"
+      url: "https://arxiv.org/abs/1801.07883"
+
+    - title: "You Only Look Once"
+      url: "https://arxiv.org/abs/1506.02640"
+
+    - title: "YOLO9000"
+      url: "https://arxiv.org/abs/1612.08242"
+
+    - title: "Large-scale Video Classification with Convolutional Neural Networks"
+      url: "https://research.google.com/pubs/archive/42455.pdf"
+
+    - title: "Two-Stream Convolutional Networks for Action Recognition in Videos"
+      url: "https://arxiv.org/abs/1406.2199"
+
+    - title: "Deep Learning for Video Classification and Captioning"
+      url: "https://arxiv.org/abs/1609.06782"
+
+    - title: "Deep Learning Paper Notes"
+      url: "https://github.com/dennybritz/deeplearning-papernotes"
+
+    - title: "Identity Mappings in Deep Residual Networks"
+      url: "https://arxiv.org/abs/1603.05027"
+
+    - title: "Deep Residual Learning for Image Recognition"
+      url: "https://arxiv.org/abs/1512.03385"
+
+    - title: "R-CNN"
+      url: "https://arxiv.org/abs/1311.2524"
+
+    - title: "Fast R-CNN"
+      url: "https://arxiv.org/abs/1504.08083"
+
+    - title: "Faster R-CNN"
+      url: "https://arxiv.org/abs/1506.01497"
+
+    - title: "Mask R-CNN"
+      url: "https://arxiv.org/abs/1703.06870"
+
+    - title: "Feature Pyramid Networks for Object Detection"
+      url: "https://arxiv.org/abs/1612.03144"
+
+    - title: "Fully Convolutional Networks for Semantic Segmentation"
+      url: "https://arxiv.org/pdf/1411.4038.pdf"
+
+    - title: "Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art"
+      url: "https://arxiv.org/abs/1704.05519"
+
+    - title: ""
+      url: ""
+
+    - title: ""
+      url: ""
+
+    - title: ""
+      url: ""
+
+
+- title: "Courses"
+  sublinks:
+    - title: "Stanford Convolutional Neural Networks"
+      url: "http://cs231n.stanford.edu/"
+
+    - title: "Stanford Natural Language Processing"
+      url: "http://web.stanford.edu/class/cs224n/"
+
+    - title: "Coursera Deep Learning Specialization"
+      url: "https://www.coursera.org/specializations/deep-learning"
+
+    - title: "fastai"
+      url: "http://course.fast.ai/"
+
+    - title: "Artificial General Intelligence"
+      url: "https://agi.mit.edu/"
+
+    - title: "Deep Learning for Self-Driving Cars"
+      url: "https://selfdrivingcars.mit.edu/"
+
+    - title: "Udacity Self-Driving Car Nanodegree"
+      url: "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013"
+
+    - title: "Deep Learning and Reinforcement Learning Summer School - 2017"
+      url: "http://videolectures.net/deeplearning2017_montreal/"
+
+- title: "Blogs"
+  sublinks:
+    - title: "Berkeley Artificial Intelligence Research"
+      url: "http://bair.berkeley.edu/blog/"
+
+    - title: "Distill"
+      url: "https://distill.pub/"
+
+    - title: "Uber Engineering"
+      url: "https://eng.uber.com/"
+
+    - title: "An Intuitive Guide to Deep Network Architectures"
+      url: "https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41"
+
+    - title: "The AI Revolution: The Road to Superintelligence"
+      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
+
+    - title: "The AI Revolution: Our Immortality or Extinction"
+      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"
+
+    - title: "Video Analysis"
+      url: "https://wiki.tum.de/display/lfdv/Video+Analysis"
+
+    - title: "Attention in Neural Networks and How to use it"
+      url: "http://akosiorek.github.io/ml/2017/10/14/visual-attention.html"
+
+    - title: "An Overview of ResNet and its Variants"
+      url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
+
+    - title: "Sebastian Ruder's blogs"
+      url: "http://ruder.io/"
+
+    - title: "Ferenc Huszár's blogs"
+      url: "http://www.inference.vc/"
+
+    - title: "TensorForce"
+      url: "https://reinforce.io/blog/introduction-to-tensorforce/"
+
+- title: "Paper Reviews"
+  sublinks:
+    - title: "57 Summaries of Machine Learning and NLP Research"
+      url: "http://www.marekrei.com/blog/paper-summaries/"
+
+    - title: ""
+      url: ""
+
+    - title: ""
+      url: ""
+
+- title: "Datasets"
+  sublinks:
+    - title: "ImageNet"
+      url: "http://www.image-net.org/"
+
+    - title: "YouTube-8M"
+      url: "https://research.google.com/youtube8m/"
+
+    - title: "Visual Question Answering"
+      url: "http://www.visualqa.org/"
+
+    - title: "COCO"
+      url: "http://cocodataset.org/#home"
+
+    - title: "PASCAl"
+      url: "http://host.robots.ox.ac.uk/pascal/VOC/index.html"
+
+    - title: "CelebA"
+      url: "http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html"
+
+    - title: "LFW"
+      url: "http://vis-www.cs.umass.edu/lfw/"
+
+    - title: ""
+      url: ""
+
+    - title: ""
+      url: ""
+
+- title: "Books"
+  sublinks:
+    - title: "The Elements of Statistical Learning"
+      url: "https://web.stanford.edu/~hastie/Papers/ESLII.pdf"
+
+    - title: "Artifical Intelligence: A Git Book"
+      url: "https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/"
+
+    - title: "A Brief Introduction to Machine Learning for Engineers"
+      url: "https://arxiv.org/abs/1709.02840"
+
+- title: "Misc"
+  sublinks:
+    - title: "deeplearn.js"
+      url: "https://deeplearnjs.org/"
+
+    - title: "Machine Learning Glossary"
+      url: "https://developers.google.com/machine-learning/glossary/"
+
+    - title: "CUDA C Best Practice Guide"
+      url: "http://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html"
+
+    - title: "Jupyter Notebook Tips"
+      url: "https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/"

@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Inception
+tagline:          Black Theme for Jekyll
+description:      "Python. Machine Learning. Deep Learning."
+url:              "https://pharrellyhy.github.io"
+baseurl:          "/"
+                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
+                  # This will apply to all pages in your Jekyll site.
+
+author:
+  name:           Pharrell Yang
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            1.0.0
+
+github:
+  repo:             https://github.com/pharrellyhy
+
+twitter:            https://twitter.com/pharrellyhy

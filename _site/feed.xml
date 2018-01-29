@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-30T00:30:15+08:00</updated><id>http://localhost:4000/</id><title type="html">Inception</title><subtitle>Python. Machine Learning. Deep Learning.</subtitle><author><name>Pharrell Yang</name></author><entry><title type="html">Pythonic Thinking</title><link href="http://localhost:4000/2017/01/18/Pythonic-Thinking.html" rel="alternate" type="text/html" title="Pythonic Thinking" /><published>2017-01-18T00:00:00+08:00</published><updated>2017-01-18T00:00:00+08:00</updated><id>http://localhost:4000/2017/01/18/Pythonic-Thinking</id><content type="html" xml:base="http://localhost:4000/2017/01/18/Pythonic-Thinking.html">&lt;p&gt;Programmers from other languages may not familiar with the word &lt;em&gt;pythonic&lt;/em&gt; and its meaning. Basically, each programming language follows a particular coding style. Over the years, the Python community has come to use the adjective &lt;em&gt;pythonic&lt;/em&gt; to describe the code that follows its own style.&lt;/p&gt;
+
+&lt;p&gt;The first thing that will make your code &lt;em&gt;pythonic&lt;/em&gt; is to follow &lt;a href=&quot;https://www.python.org/dev/peps/pep-0008/&quot;&gt;PEP 8&lt;/a&gt; Style Guide. I will list some rules that I think are most important:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Whitespace&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use spaces instead of tabs for indentation.&lt;/li&gt;
+  &lt;li&gt;Use four spaces for each level of syntactically significant indenting.&lt;/li&gt;
+  &lt;li&gt;Lines should be 79 characters in length or less (There have some discussions that for modern computers which have wider screen would definitely fit more characters in one line. So around 100 should be a reasonable choice).&lt;/li&gt;
+  &lt;li&gt;Functions and classes that in a file should be separated by two blank lines&lt;/li&gt;
+  &lt;li&gt;Methods in a class should be separated by one blank line.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;No space&lt;/em&gt;&lt;/strong&gt; aorund list indices, function calls or keyword argument assignments&lt;/li&gt;
+  &lt;li&gt;Put &lt;strong&gt;&lt;em&gt;only one&lt;/em&gt;&lt;/strong&gt; space before and after variable assignments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Naming&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Functions, variables and attributes should be in &lt;em&gt;lowercase_underscore&lt;/em&gt; format.&lt;/li&gt;
+  &lt;li&gt;Protected functions and instance attributes should be in &lt;em&gt;_leading_underscore&lt;/em&gt; format.&lt;/li&gt;
+  &lt;li&gt;Private instance attributes should be in &lt;em&gt;__double_leading_underscore&lt;/em&gt; format.&lt;/li&gt;
+  &lt;li&gt;Classes and exceptions should be in &lt;em&gt;CapitalizedWord&lt;/em&gt; format.&lt;/li&gt;
+  &lt;li&gt;Module level constants should be in ALL_CAPS format.&lt;/li&gt;
+  &lt;li&gt;Class methods should use &lt;em&gt;cls&lt;/em&gt; as the name of the first parameter (which refers to the class)&lt;/li&gt;
+  &lt;li&gt;Instance methods in classes should use &lt;em&gt;self&lt;/em&gt; as the name of the first parameter (which refers to the class)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Expressions and Statements&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use inline negation (&lt;code class=&quot;highlighter-rouge&quot;&gt;if x is not y&lt;/code&gt;) instead of negation of positive expressions (&lt;code class=&quot;highlighter-rouge&quot;&gt;if not x is y&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;Don’t check for empty values (&lt;code class=&quot;highlighter-rouge&quot;&gt;[] or ''&lt;/code&gt;) by checking their lengh (&lt;code class=&quot;highlighter-rouge&quot;&gt;if len(x) == 0&lt;/code&gt;). Use &lt;code class=&quot;highlighter-rouge&quot;&gt;if not x&lt;/code&gt; and empty values are implicitly evaluated to &lt;code class=&quot;highlighter-rouge&quot;&gt;False&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Always put &lt;code class=&quot;highlighter-rouge&quot;&gt;import&lt;/code&gt; at the top of a file.&lt;/li&gt;
+  &lt;li&gt;Always use absolute import instead relative import. For example, &lt;code class=&quot;highlighter-rouge&quot;&gt;from bar import foo&lt;/code&gt;, not just &lt;code class=&quot;highlighter-rouge&quot;&gt;import foo&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you use &lt;strong&gt;Sublime&lt;/strong&gt; as your coding editor, I would recommand using &lt;strong&gt;Anaconda&lt;/strong&gt; to check your coding style. Just open &lt;em&gt;Anaconda User-Settings&lt;/em&gt; and set &lt;code class=&quot;highlighter-rouge&quot;&gt;anaconda_linting&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;. You can also ignore some &lt;em&gt;PEP 8&lt;/em&gt; rules by setting &lt;code class=&quot;highlighter-rouge&quot;&gt;pep8_ignore&lt;/code&gt;.&lt;/p&gt;</content><author><name>Pharrell Yang</name></author><category term="python" /><summary type="html">Programmers from other languages may not familiar with the word pythonic and its meaning. Basically, each programming language follows a particular coding style. Over the years, the Python community has come to use the adjective pythonic to describe the code that follows its own style.</summary></entry></feed>

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Inception &middot; Black Theme for Jekyll
+    
+  </title>
+
+  
+    
+
+
+
+
+
+
+  
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/blackdoc.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=EB+Garamond">
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body class="theme-base-08">
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Inception
+        </a>
+      </h1>
+      <p class="lead">Python. Machine Learning. Deep Learning.</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item active" href="/">Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/about.html">About</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/archive.html">Archive</a>
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/resource.html">Resource</a>
+          
+        
+      
+        
+      
+
+      <img src="/public/images/space1.png" alt="test image">
+
+      <hr>
+      <a class="sidebar-nav-item" href="https://twitter.com/pharrellyhy">Twitter</a>
+      <a class="sidebar-nav-item" href="https://github.com/pharrellyhy">GitHub</a>
+    </nav>
+
+    <p>&copy; Pharrell Yang
+      <br /> 2017 - 2018
+      <br /> All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2017/01/18/Pythonic-Thinking.html">
+        Pythonic Thinking
+      </a>
+    </h1>
+
+    <span class="post-date">Jan 18 2017</span>
+    <span>
+        
+        
+        <a href="/tag/python"><code class="highligher-rouge"><nobr>python</nobr></code>&nbsp;</a>
+        
+    </span>
+    <p>Programmers from other languages may not familiar with the word <em>pythonic</em> and its meaning. Basically, each programming language follows a particular coding style. Over the years, the Python community has come to use the adjective <em>pythonic</em> to describe the code that follows its own style.</p>
+
+<p>The first thing that will make your code <em>pythonic</em> is to follow <a href="https://www.python.org/dev/peps/pep-0008/">PEP 8</a> Style Guide. I will list some rules that I think are most important:</p>
+
+<p><strong>Whitespace</strong>:</p>
+<ul>
+  <li>Use spaces instead of tabs for indentation.</li>
+  <li>Use four spaces for each level of syntactically significant indenting.</li>
+  <li>Lines should be 79 characters in length or less (There have some discussions that for modern computers which have wider screen would definitely fit more characters in one line. So around 100 should be a reasonable choice).</li>
+  <li>Functions and classes that in a file should be separated by two blank lines</li>
+  <li>Methods in a class should be separated by one blank line.</li>
+  <li><strong><em>No space</em></strong> aorund list indices, function calls or keyword argument assignments</li>
+  <li>Put <strong><em>only one</em></strong> space before and after variable assignments.</li>
+</ul>
+
+<p><strong>Naming</strong>:</p>
+<ul>
+  <li>Functions, variables and attributes should be in <em>lowercase_underscore</em> format.</li>
+  <li>Protected functions and instance attributes should be in <em>_leading_underscore</em> format.</li>
+  <li>Private instance attributes should be in <em>__double_leading_underscore</em> format.</li>
+  <li>Classes and exceptions should be in <em>CapitalizedWord</em> format.</li>
+  <li>Module level constants should be in ALL_CAPS format.</li>
+  <li>Class methods should use <em>cls</em> as the name of the first parameter (which refers to the class)</li>
+  <li>Instance methods in classes should use <em>self</em> as the name of the first parameter (which refers to the class)</li>
+</ul>
+
+<p><strong>Expressions and Statements</strong>:</p>
+<ul>
+  <li>Use inline negation (<code class="highlighter-rouge">if x is not y</code>) instead of negation of positive expressions (<code class="highlighter-rouge">if not x is y</code>).</li>
+  <li>Don’t check for empty values (<code class="highlighter-rouge">[] or ''</code>) by checking their lengh (<code class="highlighter-rouge">if len(x) == 0</code>). Use <code class="highlighter-rouge">if not x</code> and empty values are implicitly evaluated to <code class="highlighter-rouge">False</code>.</li>
+  <li>Always put <code class="highlighter-rouge">import</code> at the top of a file.</li>
+  <li>Always use absolute import instead relative import. For example, <code class="highlighter-rouge">from bar import foo</code>, not just <code class="highlighter-rouge">import foo</code>.</li>
+</ul>
+
+<p>If you use <strong>Sublime</strong> as your coding editor, I would recommand using <strong>Anaconda</strong> to check your coding style. Just open <em>Anaconda User-Settings</em> and set <code class="highlighter-rouge">anaconda_linting</code> to <code class="highlighter-rouge">true</code>. You can also ignore some <em>PEP 8</em> rules by setting <code class="highlighter-rouge">pep8_ignore</code>.</p>
+
+  </div>
+  
+</div>
+
+<div class="pagination">
+  
+    <span class="pagination-item older">Older</span>
+  
+  
+    <span class="pagination-item newer">Newer</span>
+  
+</div>
+    </div>
+
+  </body>
+</html>
