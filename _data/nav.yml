@@ -55,6 +55,7 @@
     - title: ""
       url: ""
 
+
 - title: "Source Code"
   sublinks:
     - title: "Poincare Embeddings"
@@ -165,10 +166,10 @@
 
 - title: "Courses"
   sublinks:
-    - title: "Stanford Convolutional Neural Networks"
+    - title: "Convolutional Neural Networks (Stanford)"
       url: "http://cs231n.stanford.edu/"
 
-    - title: "Stanford Natural Language Processing"
+    - title: "Natural Language Processing (Stanford)"
       url: "http://web.stanford.edu/class/cs224n/"
 
     - title: "Coursera Deep Learning Specialization"
@@ -188,6 +189,16 @@
 
     - title: "Deep Learning and Reinforcement Learning Summer School - 2017"
       url: "http://videolectures.net/deeplearning2017_montreal/"
+
+    - title: "Introduction to Deep Learning (MIT)"
+      url: "http://introtodeeplearning.com/"
+
+    - title: "Artificial General Intelligence (MIT)"
+      url: "https://agi.mit.edu/"
+
+    - title: "2017 DL & RL Summer School (Montreal)"
+      url: "http://videolectures.net/deeplearning2017_montreal/"
+
 
 - title: "Blogs"
   sublinks:
@@ -230,6 +241,7 @@
     - title: "TensorForce"
       url: "https://reinforce.io/blog/introduction-to-tensorforce/"
 
+
 - title: "Paper Reviews"
   sublinks:
     - title: "57 Summaries of Machine Learning and NLP Research"
@@ -240,6 +252,7 @@
 
     - title: ""
       url: ""
+
 
 - title: "Datasets"
   sublinks:
@@ -270,6 +283,7 @@
     - title: ""
       url: ""
 
+
 - title: "Books"
   sublinks:
     - title: "The Elements of Statistical Learning"
@@ -280,6 +294,7 @@
 
     - title: "A Brief Introduction to Machine Learning for Engineers"
       url: "https://arxiv.org/abs/1709.02840"
+
 
 - title: "Misc"
   sublinks:
@@ -294,3 +309,4 @@
 
     - title: "Jupyter Notebook Tips"
       url: "https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/"
+
