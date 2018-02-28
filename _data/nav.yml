@@ -96,11 +96,12 @@
     - title: "Pyro"
       url: "https://github.com/uber/pyro"
 
-    - title: ""
-      url: ""
+    - title: "Official TensorFlow Models"
+      url: "https://github.com/tensorflow/models"
 
     - title: ""
       url: ""
+
 
 - title: "Papers"
   sublinks:
