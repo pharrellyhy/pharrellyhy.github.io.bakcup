@@ -40,20 +40,29 @@
     - title: "Deep Reinforcement Learning: Pong from Pixels"
       url: "http://karpathy.github.io/2016/05/31/rl/"
 
+    - title: "Attention in Neural Networks and How to use it"
+      url: "http://akosiorek.github.io/ml/2017/10/14/visual-attention.html"
+
+    - title: "An Overview of ResNet and its Variants"
+      url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
+
     - title: "The Unreasonable Effectiveness of Recurrent Neural Networks"
       url: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
 
     - title: "Guide to Visual Question Answering"
       url: "https://tryolabs.com/blog/2018/03/01/guide-to-visual-question-answering-datasets-approaches-and-evaluation/"
 
-    - title: ""
-      url: ""
+    - title: "Deep Learning for Object Detection: A Comprehensive Review"
+      url: "https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9"
 
-    - title: ""
-      url: ""
+    - title: "An Intuitive Guide to Deep Network Architectures"
+      url: "https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41"
 
-    - title: ""
-      url: ""
+    - title: "Video Analysis"
+      url: "https://wiki.tum.de/display/lfdv/Video+Analysis"
+
+    - title: "SSD Tutorial"
+      url: "http://cv-tricks.com/object-detection/single-shot-multibox-detector-ssd/"
 
 
 - title: "Source Code"
@@ -100,14 +109,20 @@
     - title: "Official TensorFlow Models"
       url: "https://github.com/tensorflow/models"
 
-    - title: ""
-      url: ""
+    - title: "SSD (PyTorch)"
+      url: "https://github.com/amdegroot/ssd.pytorch"
+
+    - title: "Keras GAN"
+      url: "https://github.com/eriklindernoren/Keras-GAN"
+
+    - title: "TensorFlow Project Template"
+      url: "https://github.com/MrGemy95/Tensorflow-Project-Template"
 
 
 - title: "Papers"
   sublinks:
-    - title: "Deep Learning for Sentiment Analysis: A Survey"
-      url: "https://arxiv.org/abs/1801.07883"
+    - title: "Deep Learning in Neural Networks: An Overview"
+      url: "https://arxiv.org/abs/1404.7828"
 
     - title: "You Only Look Once"
       url: "https://arxiv.org/abs/1506.02640"
@@ -151,6 +166,9 @@
     - title: "Fully Convolutional Networks for Semantic Segmentation"
       url: "https://arxiv.org/pdf/1411.4038.pdf"
 
+    - title: "Deep Learning for Sentiment Analysis: A Survey"
+      url: "https://arxiv.org/abs/1801.07883"
+
     - title: "Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art"
       url: "https://arxiv.org/abs/1704.05519"
 
@@ -166,6 +184,18 @@
 
 - title: "Blogs"
   sublinks:
+    - title: "Google Research"
+      url: "https://research.googleblog.com"
+
+    - title: "Facebook Research"
+      url: "https://research.fb.com"
+
+    - title: "DeepMind News & Blog"
+      url: "https://deepmind.com/blog/"
+
+    - title: "OpenAI Blog"
+      url: "https://blog.openai.com/"
+
     - title: "Berkeley Artificial Intelligence Research"
       url: "http://bair.berkeley.edu/blog/"
 
@@ -175,26 +205,8 @@
     - title: "Uber Engineering"
       url: "https://eng.uber.com/"
 
-    - title: "An Intuitive Guide to Deep Network Architectures"
-      url: "https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41"
-
-    - title: "Deep Learning for Object Detection: A Comprehensive Review"
-      url: "https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9"
-
-    - title: "The AI Revolution: The Road to Superintelligence"
-      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
-
-    - title: "The AI Revolution: Our Immortality or Extinction"
-      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"
-
-    - title: "Video Analysis"
-      url: "https://wiki.tum.de/display/lfdv/Video+Analysis"
-
-    - title: "Attention in Neural Networks and How to use it"
-      url: "http://akosiorek.github.io/ml/2017/10/14/visual-attention.html"
-
-    - title: "An Overview of ResNet and its Variants"
-      url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
+    - title: "Intel AI Blog"
+      url: "https://ai.intel.com/blog/"
 
     - title: "Sebastian Ruder's blogs"
       url: "http://ruder.io/"
@@ -204,6 +216,12 @@
 
     - title: "TensorForce"
       url: "https://reinforce.io/blog/introduction-to-tensorforce/"
+
+    - title: "The AI Revolution: The Road to Superintelligence"
+      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
+
+    - title: "The AI Revolution: Our Immortality or Extinction"
+      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"
 
 
 - title: "Courses"
@@ -220,17 +238,11 @@
     - title: "fastai"
       url: "http://course.fast.ai/"
 
-    - title: "Artificial General Intelligence"
-      url: "https://agi.mit.edu/"
-
     - title: "Deep Learning for Self-Driving Cars"
       url: "https://selfdrivingcars.mit.edu/"
 
     - title: "Udacity Self-Driving Car Nanodegree"
       url: "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013"
-
-    - title: "Deep Learning and Reinforcement Learning Summer School - 2017"
-      url: "http://videolectures.net/deeplearning2017_montreal/"
 
     - title: "Introduction to Deep Learning (MIT)"
       url: "http://introtodeeplearning.com/"
@@ -246,9 +258,6 @@
   sublinks:
     - title: "57 Summaries of Machine Learning and NLP Research"
       url: "http://www.marekrei.com/blog/paper-summaries/"
-
-    - title: ""
-      url: ""
 
     - title: ""
       url: ""
@@ -309,4 +318,10 @@
 
     - title: "Jupyter Notebook Tips"
       url: "https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/"
+
+    - title: "Deep Learning Book Notation"
+      url: "https://github.com/goodfeli/dlbook_notation"
+
+    - title: ""
+      url: ""
 
