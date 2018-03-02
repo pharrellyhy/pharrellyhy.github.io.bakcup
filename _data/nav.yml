@@ -43,8 +43,8 @@
     - title: "The Unreasonable Effectiveness of Recurrent Neural Networks"
       url: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
 
-    - title: ""
-      url: ""
+    - title: "Guide to Visual Question Answering"
+      url: "https://tryolabs.com/blog/2018/03/01/guide-to-visual-question-answering-datasets-approaches-and-evaluation/"
 
     - title: ""
       url: ""
@@ -164,42 +164,6 @@
       url: ""
 
 
-- title: "Courses"
-  sublinks:
-    - title: "Convolutional Neural Networks (Stanford)"
-      url: "http://cs231n.stanford.edu/"
-
-    - title: "Natural Language Processing (Stanford)"
-      url: "http://web.stanford.edu/class/cs224n/"
-
-    - title: "Coursera Deep Learning Specialization"
-      url: "https://www.coursera.org/specializations/deep-learning"
-
-    - title: "fastai"
-      url: "http://course.fast.ai/"
-
-    - title: "Artificial General Intelligence"
-      url: "https://agi.mit.edu/"
-
-    - title: "Deep Learning for Self-Driving Cars"
-      url: "https://selfdrivingcars.mit.edu/"
-
-    - title: "Udacity Self-Driving Car Nanodegree"
-      url: "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013"
-
-    - title: "Deep Learning and Reinforcement Learning Summer School - 2017"
-      url: "http://videolectures.net/deeplearning2017_montreal/"
-
-    - title: "Introduction to Deep Learning (MIT)"
-      url: "http://introtodeeplearning.com/"
-
-    - title: "Artificial General Intelligence (MIT)"
-      url: "https://agi.mit.edu/"
-
-    - title: "2017 DL & RL Summer School (Montreal)"
-      url: "http://videolectures.net/deeplearning2017_montreal/"
-
-
 - title: "Blogs"
   sublinks:
     - title: "Berkeley Artificial Intelligence Research"
@@ -240,6 +204,42 @@
 
     - title: "TensorForce"
       url: "https://reinforce.io/blog/introduction-to-tensorforce/"
+
+
+- title: "Courses"
+  sublinks:
+    - title: "Convolutional Neural Networks (Stanford)"
+      url: "http://cs231n.stanford.edu/"
+
+    - title: "Natural Language Processing (Stanford)"
+      url: "http://web.stanford.edu/class/cs224n/"
+
+    - title: "Coursera Deep Learning Specialization"
+      url: "https://www.coursera.org/specializations/deep-learning"
+
+    - title: "fastai"
+      url: "http://course.fast.ai/"
+
+    - title: "Artificial General Intelligence"
+      url: "https://agi.mit.edu/"
+
+    - title: "Deep Learning for Self-Driving Cars"
+      url: "https://selfdrivingcars.mit.edu/"
+
+    - title: "Udacity Self-Driving Car Nanodegree"
+      url: "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013"
+
+    - title: "Deep Learning and Reinforcement Learning Summer School - 2017"
+      url: "http://videolectures.net/deeplearning2017_montreal/"
+
+    - title: "Introduction to Deep Learning (MIT)"
+      url: "http://introtodeeplearning.com/"
+
+    - title: "Artificial General Intelligence (MIT)"
+      url: "https://agi.mit.edu/"
+
+    - title: "2017 DL & RL Summer School (Montreal)"
+      url: "http://videolectures.net/deeplearning2017_montreal/"
 
 
 - title: "Paper Reviews"
