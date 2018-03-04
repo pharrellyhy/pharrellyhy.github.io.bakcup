@@ -298,6 +298,12 @@
 
 - title: "Books"
   sublinks:
+    - title: "Deep Learning Book"
+      url: "http://www.deeplearningbook.org/"
+
+    - title: "Neural Network and Deep Learning"
+      url: "http://neuralnetworksanddeeplearning.com/"
+
     - title: "The Elements of Statistical Learning"
       url: "https://web.stanford.edu/~hastie/Papers/ESLII.pdf"
 
