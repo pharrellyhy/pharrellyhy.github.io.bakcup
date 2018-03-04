@@ -88,19 +88,19 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 1.2rem;
+  font-size: 1.0rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.0rem;
+  font-size: .8rem;
 }
 h3 {
   margin-top: 1.4rem;
-  font-size: .8rem;
+  font-size: .6rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: .6rem;
+  font-size: .4rem;
 }
 
 /* Body text */
