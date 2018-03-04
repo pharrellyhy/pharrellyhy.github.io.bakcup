@@ -48,13 +48,13 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.25;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 10px;
   }
 }
 
@@ -88,25 +88,26 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.0rem;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 1.4rem;
+  font-size: .8rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: .6rem;
 }
 
 /* Body text */
 p {
-  margin-top: 0;
+  margin-top: 1rem;
   margin-bottom: 1rem;
+  font-size: .8rem;
 }
 
 strong {
@@ -118,6 +119,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: .75rem;
 }
 
 dt {
@@ -137,7 +139,7 @@ hr {
 }
 
 abbr {
-  font-size: 85%;
+  font-size: 70%;
   font-weight: bold;
   color: #555;
   text-transform: uppercase;
@@ -154,8 +156,8 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 85%;
-  color: #bf616a;
+  font-size: 80%;
+  color: #ba616a;
   background-color: #f9f9f9;
   border-radius: 3px;
 }
@@ -174,7 +176,7 @@ pre {
 }
 pre code {
   padding: 0;
-  font-size: 100%;
+  font-size: 80%;
   color: inherit;
   background-color: transparent;
   overflow: auto;
@@ -201,7 +203,7 @@ pre code {
   background-color: transparent;
 }
 .gist .gist-file .gist-data {
-  font-size: .8rem !important;
+  font-size: .6rem !important;
   line-height: 1.4;
 }
 .gist code {
@@ -260,7 +262,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: .7rem;
   font-weight: 300;
 }
 
@@ -275,7 +277,7 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
+  color: #000;
   background-color: #f9f9f9;
 }
 
@@ -348,9 +350,10 @@ tbody tr:nth-child(odd) th {
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: .1rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  font-size: .6rem;
 }
 
 /* Related posts */
@@ -365,9 +368,10 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts h3 {
   margin-top: 0;
+  font-size: .8rem;
 }
 .related-posts li small {
-  font-size: 75%;
+  font-size: 60%;
   color: #999;
 }
 .related-posts li a:hover {
@@ -391,7 +395,7 @@ tbody tr:nth-child(odd) th {
   margin-left: -1rem;
   margin-right: -1rem;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  color: #ccc;
+  color: #222;
   text-align: center;
 }
 

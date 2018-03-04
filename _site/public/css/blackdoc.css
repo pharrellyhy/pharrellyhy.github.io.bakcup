@@ -30,12 +30,13 @@ ______ _            _   ______
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica", Helvetica, Arial, sans-serif;
 }
 
 body {
-  color: #848482;
-  background-color: #000000;
+  color: #000000;
+  background-color: #f8f7fc;
+  font-family: "Open Sans";
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -77,18 +78,18 @@ a:hover {
 }
 
 strong, b {
-  color: #848471;
+  color: #000;
 }
 /* Code */
 
 code {
-  color: #993030;
+  color: #be416a;
   white-space: pre-wrap;
-  background-color: #222;
+  background-color: #cfcfcf;
 }
 
 pre {
-  background-color: #222;
+  background-color: #cfcfcf;
 }
 
 pre { white-space: pre; overflow: auto !important; }
@@ -103,8 +104,8 @@ hr {
 }
 
 blockquote {
-  color: #666;
-  border-left: .25rem solid #333;
+  color: #888;
+  border-left: .25rem solid #444;
 }
 
 td,
@@ -142,8 +143,8 @@ tbody tr:nth-child(odd) th {
  */
 
 .message {
-  color: #bbb;
-  background-color: #333;
+  color: #000;
+  background-color: #cfcfcf;
 }
 
 /* Gist */
@@ -186,7 +187,7 @@ tbody tr:nth-child(odd) th {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 16rem;
     text-align: left;
   }
 }
@@ -250,16 +251,16 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
+    max-width: 40rem;
+    margin-left: 12rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: 18rem;
+    margin-right: 2rem;
   }
 }
 
