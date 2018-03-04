@@ -64,6 +64,9 @@
     - title: "SSD Tutorial"
       url: "http://cv-tricks.com/object-detection/single-shot-multibox-detector-ssd/"
 
+    - title: "Build a NN on iOS"
+      url: "https://attardi.org/pytorch-and-coreml"
+
 
 - title: "Source Code"
   sublinks:
@@ -322,6 +325,6 @@
     - title: "Deep Learning Book Notation"
       url: "https://github.com/goodfeli/dlbook_notation"
 
-    - title: ""
-      url: ""
+    - title: "101 NumPy Exercises for Data Analysis"
+      url: "https://www.machinelearningplus.com/101-numpy-exercises-python/"
 
