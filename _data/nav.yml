@@ -121,6 +121,9 @@
     - title: "TensorFlow Project Template"
       url: "https://github.com/MrGemy95/Tensorflow-Project-Template"
 
+    - title: "Tensor Comprehensions (PyTorch)"
+      url: "https://github.com/facebookresearch/TensorComprehensions/"
+
 
 - title: "Papers"
   sublinks:
