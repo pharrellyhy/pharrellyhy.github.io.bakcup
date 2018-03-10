@@ -35,7 +35,7 @@ html {
 
 body {
   color: #000000;
-  background-color: #f8f7fc;
+  background-color: #ffffff;
   font-family: "Open Sans";
 }
 
@@ -85,7 +85,7 @@ strong, b {
 code {
   color: #be416a;
   white-space: pre-wrap;
-  background-color: #cfcfcf;
+  background-color: #e6dff9;
 }
 
 pre {
