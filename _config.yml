@@ -6,6 +6,7 @@ highlighter:      rouge
 title:            Inception
 tagline:          Black Theme for Jekyll
 description:      "Python. Machine Learning. Deep Learning."
+
 url:              "https://pharrellyhy.github.io"
 baseurl:          "/"
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
