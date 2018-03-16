@@ -2,6 +2,8 @@
 layout: post
 title: Legend Never Die
 ---
+{% include image.html file="hawking.jpg" description="Image from https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76" %}
+
 What a sad day in human history. Stephen Hawking, the brightest star in the firmament of science, whose insights shaped modern cosmology and inspired global audiences in the millions, has died at age 76. 
 
 I felt ashamed that I haven't finished his famous book, A Brief History of Time, even I've got it more than 10 years ago. In memory of what he inspired us, I want to list some of his quotes below. R.I.P, our beloved scientist. 
