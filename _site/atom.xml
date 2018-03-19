@@ -4,7 +4,7 @@
  <title>Inception</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-16T11:50:30+08:00</updated>
+ <updated>2018-03-20T00:56:04+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Pharrell Yang</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Legend Never Die</title>
+   <title>Legend Never Dies</title>
    <link href="http://localhost:4000/2018/03/14/Legend-Never-Die.html"/>
    <updated>2018-03-14T00:00:00+08:00</updated>
    <id>http://localhost:4000/2018/03/14/Legend-Never-Die</id>
