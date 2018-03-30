@@ -43,9 +43,6 @@
     - title: "Attention in Neural Networks and How to use it"
       url: "http://akosiorek.github.io/ml/2017/10/14/visual-attention.html"
 
-    - title: "An Overview of ResNet and its Variants"
-      url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
-
     - title: "The Unreasonable Effectiveness of Recurrent Neural Networks"
       url: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
 
@@ -184,9 +181,6 @@
     - title: ""
       url: ""
 
-    - title: ""
-      url: ""
-
 
 - title: "Blogs"
   sublinks:
@@ -228,6 +222,18 @@
 
     - title: "The AI Revolution: Our Immortality or Extinction"
       url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"
+
+    - title: "Intuitive RL: Intro to Advantage-Actor-Critic (A2C)"
+      url: "https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752"
+
+    - title: "Deep Reinforcement Learning Doesn't Work Yet"
+      url: "https://www.alexirpan.com/2018/02/14/rl-hard.html"
+
+    - title: "Object Recognition for Dummies Part 3"
+      url: "https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html#yolo-you-only-look-once"
+
+    - title: "An Overview of ResNet and its Variants"
+      url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
 
 
 - title: "Courses"
