@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Legend Never Dies
+tags: misc
 ---
 {% include image.html file="hawking.jpg" description="Image from https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76" %}
 

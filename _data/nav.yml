@@ -331,11 +331,14 @@
     - title: "A Brief Introduction to Machine Learning for Engineers"
       url: "https://arxiv.org/abs/1709.02840"
 
+    - title: "Reinforcement Learning 2nd Edition (Complete Draft)"
+      url: "http://incompleteideas.net/book/the-book-2nd.html"
+
 
 - title: "Misc"
   sublinks:
-    - title: "deeplearn.js"
-      url: "https://deeplearnjs.org/"
+    - title: "TensorFlow.js"
+      url: "https://js.tensorflow.org/"
 
     - title: "Machine Learning Glossary"
       url: "https://developers.google.com/machine-learning/glossary/"

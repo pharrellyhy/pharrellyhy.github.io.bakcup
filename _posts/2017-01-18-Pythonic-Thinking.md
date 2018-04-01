@@ -31,4 +31,4 @@ The first thing that will make your code _pythonic_ is to follow [PEP 8](https:/
 + Always put `import` at the top of a file.
 + Always use absolute import instead relative import. For example, `from bar import foo`, not just `import foo`.
 
-If you use **Sublime** as your coding editor, I would recommand using **Anaconda** to check your coding style. Just open *Anaconda User-Settings* and set `anaconda_linting` to `true`. You can also ignore some *PEP 8* rules by setting `pep8_ignore`. 
+If you use **Sublime** as your coding editor, I would recommand using **Anaconda** to check your coding style. Just open *Anaconda User-Settings* and set `anaconda_linting` to `true`. You can also ignore some *PEP8* rules by setting a `pep8_ignore` list. 
