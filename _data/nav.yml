@@ -355,3 +355,6 @@
     - title: "101 NumPy Exercises for Data Analysis"
       url: "https://www.machinelearningplus.com/101-numpy-exercises-python/"
 
+    - title: "AUC vs AUROC"
+      url: "https://stats.stackexchange.com/questions/132777/what-does-auc-stand-for-and-what-is-it"
+
