@@ -64,6 +64,9 @@
     - title: "Build a NN on iOS"
       url: "https://attardi.org/pytorch-and-coreml"
 
+    - title: "Train YOLOv2 to detect custom objects"
+      url: "https://timebutt.github.io/static/how-to-train-yolov2-to-detect-custom-objects/"
+
 
 - title: "Source Code"
   sublinks:
