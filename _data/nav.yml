@@ -217,6 +217,9 @@
     - title: "Ferenc Huszár's blogs"
       url: "http://www.inference.vc/"
 
+    - title: "deepsense blog"
+      url: "blog.deepsense.ai"
+
     - title: "TensorForce"
       url: "https://reinforce.io/blog/introduction-to-tensorforce/"
 
