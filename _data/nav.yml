@@ -67,6 +67,9 @@
     - title: "Train YOLOv2 to detect custom objects"
       url: "https://timebutt.github.io/static/how-to-train-yolov2-to-detect-custom-objects/"
 
+    - title: "Understanding Capsule Networks"
+      url: "https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc"
+
 
 - title: "Source Code"
   sublinks:
