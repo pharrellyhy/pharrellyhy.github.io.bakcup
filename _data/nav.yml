@@ -244,6 +244,9 @@
     - title: "An Overview of ResNet and its Variants"
       url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
 
+    - title: "Biological Neural Networks – Part I, Spiking Neurons"
+      url: "http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/"
+
 
 - title: "Courses"
   sublinks:
@@ -368,4 +371,7 @@
       url: "https://stats.stackexchange.com/questions/132777/what-does-auc-stand-for-and-what-is-it"
     - title: "Google Semantris"
       url: "https://research.google.com/semantris"
+
+    - title: ""
+      url: ""
 
