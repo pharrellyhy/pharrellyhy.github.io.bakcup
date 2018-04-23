@@ -247,6 +247,9 @@
     - title: "Biological Neural Networks – Part I, Spiking Neurons"
       url: "http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/"
 
+    - title: "Lessons Learned Reproducing a Deep Reinforcement Learning Paper"
+      url: "http://amid.fish/reproducing-deep-rl"
+
 
 - title: "Courses"
   sublinks:
