@@ -70,6 +70,9 @@
     - title: "Understanding Capsule Networks"
       url: "https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc"
 
+    - title: "Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)"
+      url: 'https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f'
+
 
 - title: "Source Code"
   sublinks:
