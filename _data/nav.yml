@@ -220,8 +220,11 @@
     - title: "Ferenc Huszár's blogs"
       url: "http://www.inference.vc/"
 
-    - title: "deepsense blog"
+    - title: "deepsense Blog"
       url: "blog.deepsense.ai"
+
+    - title: "Paperspace Blog"
+      url: "https://blog.paperspace.com/"
 
     - title: "TensorForce"
       url: "https://reinforce.io/blog/introduction-to-tensorforce/"
