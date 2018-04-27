@@ -256,6 +256,9 @@
     - title: "Lessons Learned Reproducing a Deep Reinforcement Learning Paper"
       url: "http://amid.fish/reproducing-deep-rl"
 
+    - title: "What do we learn from region based object detectors (Faster R-CNN, R-FCN, FPN)?"
+      url: "https://medium.com/@jonathan_hui/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9"
+
 
 - title: "Courses"
   sublinks:
