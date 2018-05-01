@@ -313,6 +313,9 @@
     - title: "ImageNet"
       url: "http://www.image-net.org/"
 
+    - title: "Open Images"
+      url: "https://storage.googleapis.com/openimages/web/index.html"
+
     - title: "YouTube-8M"
       url: "https://research.google.com/youtube8m/"
 
@@ -330,9 +333,6 @@
 
     - title: "LFW"
       url: "http://vis-www.cs.umass.edu/lfw/"
-
-    - title: ""
-      url: ""
 
     - title: ""
       url: ""
@@ -384,6 +384,6 @@
     - title: "Google Semantris"
       url: "https://research.google.com/semantris"
 
-    - title: ""
-      url: ""
+    - title: "Tinker With a Neural Network in browser"
+      url: "http://playground.tensorflow.org/"
 
