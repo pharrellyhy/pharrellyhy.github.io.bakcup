@@ -364,6 +364,9 @@
     - title: "TensorFlow.js"
       url: "https://js.tensorflow.org/"
 
+    - title: "Facebook AI Tools"
+      url: "https://facebook.ai/developers"
+
     - title: "Machine Learning Glossary"
       url: "https://developers.google.com/machine-learning/glossary/"
 
