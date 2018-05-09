@@ -76,6 +76,9 @@
     - title: "Google Colab Tutorial"
       url: "https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d"
 
+    - title: "Detailed implementation description for Faster R-CNN"
+      url: "www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns"
+
 
 - title: "Source Code"
   sublinks:
