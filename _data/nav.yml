@@ -265,6 +265,9 @@
     - title: "What do we learn from region based object detectors (Faster R-CNN, R-FCN, FPN)?"
       url: "https://medium.com/@jonathan_hui/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9"
 
+    - title: "Dawnbeanch Fastai"
+      url: "http://www.fast.ai/2018/04/30/dawnbench-fastai/"
+
 
 - title: "Courses"
   sublinks:
