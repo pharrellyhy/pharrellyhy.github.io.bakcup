@@ -402,6 +402,7 @@
 
     - title: "AUC vs AUROC"
       url: "https://stats.stackexchange.com/questions/132777/what-does-auc-stand-for-and-what-is-it"
+
     - title: "Google Semantris"
       url: "https://research.google.com/semantris"
 
@@ -416,3 +417,6 @@
 
     - title: "Einstein Summation in Deep Learning"
       url: "https://rockt.github.io/2018/04/30/einsum?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News"
+
+    - title: "Machine Learning Rules from Google"
+      url: "https://developers.google.com/machine-learning/rules-of-ml/"
