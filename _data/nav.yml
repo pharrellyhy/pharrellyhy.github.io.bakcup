@@ -310,6 +310,9 @@
     - title: "Deep Learning Course from EPFL"
       url: "https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/"
 
+    - title: "CS230 Deep Learning (Stanford)"
+      url: "http://cs230.stanford.edu/index.html"
+
 
 - title: "Talks"
   sublinks:
