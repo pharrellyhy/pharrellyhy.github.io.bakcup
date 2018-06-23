@@ -4,7 +4,7 @@
  <title>Inception</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-20T00:56:04+08:00</updated>
+ <updated>2018-06-23T11:55:16+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Pharrell Yang</name>
@@ -105,7 +105,7 @@
   &lt;li&gt;Always use absolute import instead relative import. For example, &lt;code class=&quot;highlighter-rouge&quot;&gt;from bar import foo&lt;/code&gt;, not just &lt;code class=&quot;highlighter-rouge&quot;&gt;import foo&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;If you use &lt;strong&gt;Sublime&lt;/strong&gt; as your coding editor, I would recommand using &lt;strong&gt;Anaconda&lt;/strong&gt; to check your coding style. Just open &lt;em&gt;Anaconda User-Settings&lt;/em&gt; and set &lt;code class=&quot;highlighter-rouge&quot;&gt;anaconda_linting&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;. You can also ignore some &lt;em&gt;PEP 8&lt;/em&gt; rules by setting &lt;code class=&quot;highlighter-rouge&quot;&gt;pep8_ignore&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;If you use &lt;strong&gt;Sublime&lt;/strong&gt; as your coding editor, I would recommand using &lt;strong&gt;Anaconda&lt;/strong&gt; to check your coding style. Just open &lt;em&gt;Anaconda User-Settings&lt;/em&gt; and set &lt;code class=&quot;highlighter-rouge&quot;&gt;anaconda_linting&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;. You can also ignore some &lt;em&gt;PEP8&lt;/em&gt; rules by setting a &lt;code class=&quot;highlighter-rouge&quot;&gt;pep8_ignore&lt;/code&gt; list.&lt;/p&gt;
 </content>
  </entry>
  
