@@ -13,7 +13,7 @@ The first thing that will make your code _pythonic_ is to follow [PEP 8](https:/
 + Lines should be 79 characters in length or less (There have some discussions that for modern computers which have wider screen would definitely fit more characters in one line. So around 100 should be a reasonable choice).
 + Functions and classes that in a file should be separated by two blank lines
 + Methods in a class should be separated by one blank line.
-+ **_No space_** aorund list indices, function calls or keyword argument assignments 
++ **_No space_** aorund list indices, function calls or keyword argument assignments
 + Put **_only one_** space before and after variable assignments.
 
 **Naming**:
@@ -31,4 +31,4 @@ The first thing that will make your code _pythonic_ is to follow [PEP 8](https:/
 + Always put `import` at the top of a file.
 + Always use absolute import instead relative import. For example, `from bar import foo`, not just `import foo`.
 
-If you use **Sublime** as your coding editor, I would recommand using **Anaconda** to check your coding style. Just open *Anaconda User-Settings* and set `anaconda_linting` to `true`. You can also ignore some *PEP8* rules by setting a `pep8_ignore` list. 
+If you use **Sublime** as your coding editor, I would recommand using **Anaconda** to check your coding style. Just open *Anaconda User-Settings* and set `anaconda_linting` to `true`. You can also ignore some *PEP8* rules by setting a `pep8_ignore` list.
