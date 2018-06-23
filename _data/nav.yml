@@ -85,6 +85,9 @@
     - title: "How to Implement a YOLO (v3) Object Detector from Scratch in PyTorch"
       url: "https://www.kdnuggets.com/2018/05/implement-yolo-v3-object-detector-pytorch-part-1.html"
 
+    - title: "2018 CVPR Tutorial"
+      url: "http://cvpr2018.thecvf.com/program/tutorials"
+
 
 - title: "Source Code"
   sublinks:
