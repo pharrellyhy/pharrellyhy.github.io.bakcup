@@ -88,6 +88,12 @@
     - title: "2018 CVPR Tutorial"
       url: "http://cvpr2018.thecvf.com/program/tutorials"
 
+    - title: "MobileNet-V1"
+      url: "http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/"
+
+    - title: "MobileNet-v2"
+      url: "http://machinethink.net/blog/mobilenet-v2/"
+
 
 - title: "Source Code"
   sublinks:
