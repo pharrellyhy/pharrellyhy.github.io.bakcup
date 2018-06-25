@@ -394,6 +394,9 @@
     - title: "Arxiv Sanity"
       url: "http://www.arxiv-sanity.com/"
 
+    - title: "Papers with Code"
+      url: "https://paperswithcode.com/"
+
     - title: "TensorFlow.js"
       url: "https://js.tensorflow.org/"
 
