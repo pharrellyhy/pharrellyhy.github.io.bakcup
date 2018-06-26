@@ -151,6 +151,11 @@
     - title: "Tensor Comprehensions (PyTorch)"
       url: "https://github.com/facebookresearch/TensorComprehensions/"
 
+- title: "Pretrained Models"
+  sublinks:
+    - title: "Pretrained models for PyTorch"
+      url: "https://github.com/Cadene/pretrained-models.pytorch"
+
 
 - title: "Papers"
   sublinks:
