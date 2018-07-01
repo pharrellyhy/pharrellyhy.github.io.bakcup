@@ -339,8 +339,8 @@
     - title: "57 Summaries of Machine Learning and NLP Research"
       url: "http://www.marekrei.com/blog/paper-summaries/"
 
-    - title: ""
-      url: ""
+    - title: "The Annotated Transformer (HarvardNLP)"
+      url: "http://nlp.seas.harvard.edu/2018/04/03/attention.html"
 
 
 - title: "Datasets"
