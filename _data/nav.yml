@@ -234,6 +234,9 @@
     - title: "Berkeley Artificial Intelligence Research"
       url: "http://bair.berkeley.edu/blog/"
 
+    - title: "The Gradient"
+      url: "https://thegradient.pub/"
+
     - title: "Distill"
       url: "https://distill.pub/"
 
@@ -254,9 +257,6 @@
 
     - title: "Paperspace Blog"
       url: "https://blog.paperspace.com/"
-
-    - title: "TensorForce"
-      url: "https://reinforce.io/blog/introduction-to-tensorforce/"
 
     - title: "The AI Revolution: The Road to Superintelligence"
       url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
