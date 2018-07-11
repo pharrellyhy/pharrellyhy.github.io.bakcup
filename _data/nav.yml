@@ -94,6 +94,9 @@
     - title: "MobileNet-v2"
       url: "http://machinethink.net/blog/mobilenet-v2/"
 
+    - title: "ICML 2018 Tutorial"
+      url: "https://icml.cc/Conferences/2018/Schedule?type=Tutorial"
+
 
 - title: "Source Code"
   sublinks:
