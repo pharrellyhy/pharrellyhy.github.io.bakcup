@@ -97,6 +97,9 @@
     - title: "ICML 2018 Tutorial"
       url: "https://icml.cc/Conferences/2018/Schedule?type=Tutorial"
 
+    - title: "Official Keras Tutorial"
+      url: "https://www.tensorflow.org/guide/keras"
+
 
 - title: "Source Code"
   sublinks:
