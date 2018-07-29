@@ -100,6 +100,9 @@
     - title: "Official Keras Tutorial"
       url: "https://www.tensorflow.org/guide/keras"
 
+    - title: "Group Convolution"
+      url: "https://blog.yani.io/filter-group-tutorial/"
+
 
 - title: "Source Code"
   sublinks:
