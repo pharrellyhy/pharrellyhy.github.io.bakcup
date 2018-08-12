@@ -411,6 +411,9 @@
     - title: "Papers with Code"
       url: "https://paperswithcode.com/"
 
+    - title: "Gound AI"
+      url: "https://www.groundai.com/"
+
     - title: "TensorFlow.js"
       url: "https://js.tensorflow.org/"
 
