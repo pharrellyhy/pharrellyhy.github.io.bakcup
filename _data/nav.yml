@@ -300,6 +300,9 @@
     - title: "Object Detection Resources Collection"
       url: "https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html"
 
+    - title: "Transfer Learning in NLP"
+      url: "https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing"
+
 
 - title: "Courses"
   sublinks:
@@ -356,6 +359,9 @@
   sublinks:
     - title: "ImageNet"
       url: "http://www.image-net.org/"
+
+    - title: "Academic Torrents"
+      url: "http://academictorrents.com/"
 
     - title: "Open Images"
       url: "https://storage.googleapis.com/openimages/web/index.html"
