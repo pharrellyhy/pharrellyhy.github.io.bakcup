@@ -303,6 +303,9 @@
     - title: "Transfer Learning in NLP"
       url: "https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing"
 
+    - title: "Lil'Log"
+      url: "https://lilianweng.github.io/lil-log/"
+
 
 - title: "Courses"
   sublinks:
