@@ -342,6 +342,9 @@
     - title: "CS230 Deep Learning (Stanford)"
       url: "http://cs230.stanford.edu/index.html"
 
+    - title: "CS229 Machine Learning (Stanford)"
+      url: "https://stanford.edu/~shervine/teaching/cs-229.html"
+
 
 - title: "Talks"
   sublinks:
@@ -488,5 +491,7 @@
 
     - title: "Practical Advice for Building Deep Neural Networks"
       url: "https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/"
+
     - title: "Bandit Algorithms Book"
       url: "http://banditalgs.com/"
+
