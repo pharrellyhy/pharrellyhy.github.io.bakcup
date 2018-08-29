@@ -77,7 +77,7 @@
       url: "https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d"
 
     - title: "Detailed implementation description for Faster R-CNN"
-      url: "www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns"
+      url: "http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/"
 
     - title: "How to train your own object detector with TensorFlow's Object Detector API"
       url: "https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9"
