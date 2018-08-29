@@ -495,3 +495,5 @@
     - title: "Bandit Algorithms Book"
       url: "http://banditalgs.com/"
 
+    - title: "Attribute Hallucination"
+      url: "https://web.cs.hacettepe.edu.tr/~karacan/projects/attribute_hallucination/"
