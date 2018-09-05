@@ -497,3 +497,6 @@
 
     - title: "Attribute Hallucination"
       url: "https://web.cs.hacettepe.edu.tr/~karacan/projects/attribute_hallucination/"
+
+    - title: "GIBSON ENVIRONMENT - Real-World Perception for Embodied Agents"
+      url: "http://gibsonenv.stanford.edu/"
