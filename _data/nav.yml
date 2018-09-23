@@ -348,6 +348,9 @@
     - title: "CS229 Machine Learning (Stanford)"
       url: "https://stanford.edu/~shervine/teaching/cs-229.html"
 
+    - title: "Open Machine Learning Course"
+      url: "https://mlcourse.ai/"
+
 
 - title: "Talks"
   sublinks:
