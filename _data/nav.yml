@@ -509,3 +509,6 @@
 
     - title: "What-If Tool"
       url: "https://pair-code.github.io/what-if-tool/"
+
+    - title: "Python Packaging Tutorial"
+      url: "https://python-packaging-tutorial.readthedocs.io/en/latest/"
