@@ -420,6 +420,9 @@
     - title: "Reinforcement Learning 2nd Edition (Complete Draft)"
       url: "http://incompleteideas.net/book/the-book-2nd.html"
 
+    - title: "Interpretable Machine Learning Book"
+      url: "https://christophm.github.io/interpretable-ml-book/"
+
 
 - title: "Misc"
   sublinks:
