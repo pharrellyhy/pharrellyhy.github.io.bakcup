@@ -166,6 +166,12 @@
     - title: "Python Machine Learning"
       url: "https://github.com/rasbt/python-machine-learning-book-2nd-edition"
 
+    - title: "TensorFlow JS Visualization"
+      url: "https://github.com/tensorflow/tfjs-vis"
+
+    - title: "Fastai Deep Learning Library (PyTorch)"
+      url: "https://github.com/fastai/fastai/"
+
 - title: "Pretrained Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
