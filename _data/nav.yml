@@ -518,3 +518,6 @@
 
     - title: "Python Packaging Tutorial"
       url: "https://python-packaging-tutorial.readthedocs.io/en/latest/"
+
+    - title: "Rules of Machine Learning"
+      url: "http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf"
