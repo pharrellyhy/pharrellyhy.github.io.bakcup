@@ -163,6 +163,9 @@
     - title: "Tensor Comprehensions (PyTorch)"
       url: "https://github.com/facebookresearch/TensorComprehensions/"
 
+    - title: "Python Machine Learning"
+      url: "https://github.com/rasbt/python-machine-learning-book-2nd-edition"
+
 - title: "Pretrained Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
