@@ -103,6 +103,9 @@
     - title: "Group Convolution"
       url: "https://blog.yani.io/filter-group-tutorial/"
 
+    - title: "Simple TensorFlow Tutorials"
+      url: "https://github.com/open-source-for-science/TensorFlow-Course"
+
 
 - title: "Source Code"
   sublinks:
@@ -171,6 +174,9 @@
 
     - title: "Fastai Deep Learning Library (PyTorch)"
       url: "https://github.com/fastai/fastai/"
+
+    - title: "TensorFlow Reinforcement Learning (DeepMind)"
+      url: "https://github.com/deepmind/trfl/"
 
 - title: "Pretrained Models"
   sublinks:
