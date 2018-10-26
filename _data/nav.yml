@@ -369,6 +369,9 @@
     - title: "2018 DL & RL Summer School (Toronto)"
       url: "http://videolectures.net/DLRLsummerschool2018_toronto/"
 
+    - title: "Machine Learning: Step-by-Step Guides"
+      url: "https://machinelearningmastery.com/start-here/"
+
 
 - title: "Talks"
   sublinks:
