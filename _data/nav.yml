@@ -539,3 +539,6 @@
 
     - title: "Rules of Machine Learning"
       url: "http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf"
+
+    - title: "How Kalman Filter works"
+      url: "https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/"
