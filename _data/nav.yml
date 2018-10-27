@@ -545,3 +545,6 @@
 
     - title: "How Kalman Filter works"
       url: "https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/"
+
+    - title: "Nvidia Serves Deep Learning Inference"
+      url: "https://devblogs.nvidia.com/nvidia-serves-deep-learning-inference/"
