@@ -178,6 +178,9 @@
     - title: "TensorFlow Reinforcement Learning (DeepMind)"
       url: "https://github.com/deepmind/trfl/"
 
+    - title: "Spinning Up in Deep RL (OpenAI)"
+      url: "https://github.com/openai/spinningup"
+
 - title: "Pretrained Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
