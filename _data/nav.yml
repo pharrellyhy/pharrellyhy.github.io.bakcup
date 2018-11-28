@@ -366,8 +366,11 @@
     - title: "CS230 Deep Learning (Stanford)"
       url: "http://cs230.stanford.edu/index.html"
 
-    - title: "CS229 Machine Learning (Stanford)"
+    - title: "CS229 Machine Learning (Stanford) Cheatsheet"
       url: "https://stanford.edu/~shervine/teaching/cs-229.html"
+
+    - title: "CS230 Deep Learning (Stanford) Cheatsheet"
+      url: "https://stanford.edu/~shervine/teaching/cs-230.html"
 
     - title: "Open Machine Learning Course"
       url: "https://mlcourse.ai/"
@@ -554,3 +557,6 @@
 
     - title: "Nvidia Serves Deep Learning Inference"
       url: "https://devblogs.nvidia.com/nvidia-serves-deep-learning-inference/"
+
+    - title: "GANpaint"
+      url: "http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4"
