@@ -106,6 +106,9 @@
     - title: "Simple TensorFlow Tutorials"
       url: "https://github.com/open-source-for-science/TensorFlow-Course"
 
+    - title: "The Illustrated BERT, ELMo, and co"
+      url: "https://jalammar.github.io/illustrated-bert/"
+
 
 - title: "Source Code"
   sublinks:
