@@ -378,6 +378,9 @@
     - title: "CS230 Deep Learning (Stanford) Cheatsheet"
       url: "https://stanford.edu/~shervine/teaching/cs-230.html"
 
+    - title: " Deep Reinforcement Learning (Berkeley)"
+      url: "http://rail.eecs.berkeley.edu/deeprlcourse/"
+
     - title: "Open Machine Learning Course"
       url: "https://mlcourse.ai/"
 
