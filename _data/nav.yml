@@ -465,6 +465,9 @@
     - title: "Interpretable Machine Learning Book"
       url: "https://christophm.github.io/interpretable-ml-book/"
 
+    - title: "Probabilistic Programming & Bayesian Methods for Hackers"
+      url: "http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/"
+
 
 - title: "Misc"
   sublinks:
