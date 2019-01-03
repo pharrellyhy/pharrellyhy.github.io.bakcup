@@ -468,6 +468,9 @@
     - title: "Probabilistic Programming & Bayesian Methods for Hackers"
       url: "http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/"
 
+    - title: "Algorithms - Jeff Erickson"
+      url: "http://jeffe.cs.illinois.edu/teaching/algorithms/"
+
 
 - title: "Misc"
   sublinks:
