@@ -184,6 +184,9 @@
     - title: "Spinning Up in Deep RL (OpenAI)"
       url: "https://github.com/openai/spinningup"
 
+    - title: "Atari Model Zoo (Uber)"
+      url: "https://github.com/uber-research/atari-model-zoo"
+
 - title: "Pretrained Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
