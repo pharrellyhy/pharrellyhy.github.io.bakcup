@@ -109,6 +109,9 @@
     - title: "The Illustrated BERT, ELMo, and co"
       url: "https://jalammar.github.io/illustrated-bert/"
 
+    - title: "Instance Segmentation with Mask R-CNN and TensorFlow"
+      url: "https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46"
+
 
 - title: "Source Code"
   sublinks:
