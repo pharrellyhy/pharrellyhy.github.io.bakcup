@@ -279,6 +279,9 @@
     - title: "Distill"
       url: "https://distill.pub/"
 
+    - title: "Uber Blog"
+      url: "https://uber.github.io/"
+
     - title: "Uber Engineering"
       url: "https://eng.uber.com/"
 
