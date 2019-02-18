@@ -529,7 +529,10 @@
       url: "https://towardsdatascience.com/howto-profile-tensorflow-1a49fb18073d"
 
     - title: "Einstein Summation in Deep Learning"
-      url: "https://rockt.github.io/2018/04/30/einsum?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News"
+      url: "https://rockt.github.io/2018/04/30/einsum"
+
+    - title: " Einstein Summation in Numpy"
+      url: "https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/"
 
     - title: "Machine Learning Rules from Google"
       url: "https://developers.google.com/machine-learning/rules-of-ml/"
@@ -593,3 +596,6 @@
 
     - title: "Seeing Theory"
       url: "https://seeing-theory.brown.edu/"
+
+    - title: " Gaussian Processes Are Not So Fancy"
+      url: "https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/"
