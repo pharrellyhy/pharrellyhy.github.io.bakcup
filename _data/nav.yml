@@ -112,6 +112,9 @@
     - title: "Instance Segmentation with Mask R-CNN and TensorFlow"
       url: "https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46"
 
+    - title: "A Comprehensive Introduction to Different Types of Convolutions in Deep Learning"
+      url: "https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215"
+
 
 - title: "Source Code"
   sublinks:
@@ -398,6 +401,9 @@
 
     - title: "Machine Learning: Step-by-Step Guides"
       url: "https://machinelearningmastery.com/start-here/"
+
+    - title: ""
+      url: ""
 
 
 - title: "Talks"
