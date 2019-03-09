@@ -605,3 +605,9 @@
 
     - title: " Gaussian Processes Are Not So Fancy"
       url: "https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/"
+
+    - title: "Git Tutorials"
+      url: "https://www.atlassian.com/git/tutorials"
+
+    - title: "VGG Image Annotator"
+      url: "http://www.robots.ox.ac.uk/~vgg/software/via/"
