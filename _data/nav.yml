@@ -611,3 +611,12 @@
 
     - title: "VGG Image Annotator"
       url: "http://www.robots.ox.ac.uk/~vgg/software/via/"
+
+    - title: "Optimizer Visualization"
+      url: "https://vis.ensmallen.org/"
+
+    - title: "Quantum Computing For The Very Curious"
+      url: "https://quantum.country/qcvc"
+
+    - title: "Plot Neural Net"
+      url: "https://github.com/HarisIqbal88/PlotNeuralNet"
