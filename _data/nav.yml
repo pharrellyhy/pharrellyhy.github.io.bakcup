@@ -291,6 +291,9 @@
     - title: "Intel AI Blog"
       url: "https://ai.intel.com/blog/"
 
+    - title: "Andrej Karpathy's Blog"
+      url: "https://karpathy.github.io/"
+
     - title: "Sebastian Ruder's blogs"
       url: "http://ruder.io/"
 
@@ -390,7 +393,7 @@
     - title: "CS230 Deep Learning (Stanford) Cheatsheet"
       url: "https://stanford.edu/~shervine/teaching/cs-230.html"
 
-    - title: " Deep Reinforcement Learning (Berkeley)"
+    - title: "Deep Reinforcement Learning (Berkeley)"
       url: "http://rail.eecs.berkeley.edu/deeprlcourse/"
 
     - title: "Open Machine Learning Course"
@@ -537,7 +540,7 @@
     - title: "Einstein Summation in Deep Learning"
       url: "https://rockt.github.io/2018/04/30/einsum"
 
-    - title: " Einstein Summation in Numpy"
+    - title: "Einstein Summation in Numpy"
       url: "https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/"
 
     - title: "Machine Learning Rules from Google"
@@ -603,7 +606,7 @@
     - title: "Seeing Theory"
       url: "https://seeing-theory.brown.edu/"
 
-    - title: " Gaussian Processes Are Not So Fancy"
+    - title: "Gaussian Processes Are Not So Fancy"
       url: "https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/"
 
     - title: "Git Tutorials"
