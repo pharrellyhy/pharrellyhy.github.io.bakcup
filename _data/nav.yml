@@ -115,6 +115,9 @@
     - title: "A Comprehensive Introduction to Different Types of Convolutions in Deep Learning"
       url: "https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215"
 
+      title: "Weight Initialization"
+      url: "https://www.deeplearning.ai/ai-notes/initialization/"
+
 
 - title: "Source Code"
   sublinks:
