@@ -408,8 +408,8 @@
     - title: "Machine Learning: Step-by-Step Guides"
       url: "https://machinelearningmastery.com/start-here/"
 
-    - title: ""
-      url: ""
+    - title: "Introduction to Machine Learning (Berkely CS189/289A)"
+      url: "https://people.eecs.berkeley.edu/~jrs/189/"
 
 
 - title: "Talks"
