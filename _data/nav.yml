@@ -629,3 +629,6 @@
 
     - title: "The Coding Interview: an approach to minimize anxiety and improve chances of success"
       url: "https://medium.com/@mylesborins/the-coding-interview-an-approach-to-minimize-anxiety-and-improve-chances-of-success-e5a8603bfea5"
+
+    - title: "Understanding Cross Entropy and its Variants"
+      url: "https://gombru.github.io/2018/05/23/cross_entropy_loss/"
