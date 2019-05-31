@@ -411,6 +411,9 @@
     - title: "Introduction to Machine Learning (Berkely CS189/289A)"
       url: "https://people.eecs.berkeley.edu/~jrs/189/"
 
+    - title: "Machine Learning for Intelligent Systems"
+      url: "http://www.cs.cornell.edu/courses/cs4780/2018fa/"
+
 
 - title: "Talks"
   sublinks:
