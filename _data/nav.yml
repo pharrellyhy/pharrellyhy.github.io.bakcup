@@ -1,6 +1,93 @@
 
-- title: "Tutorials"
+- title: "Blogs & Tutorials"
   sublinks:
+    - title: "Google Research"
+      url: "https://ai.googleblog.com/"
+
+    - title: "Facebook Research"
+      url: "https://research.fb.com"
+
+    - title: "DeepMind News & Blog"
+      url: "https://deepmind.com/blog/"
+
+    - title: "OpenAI Blog"
+      url: "https://blog.openai.com/"
+
+    - title: "Berkeley Artificial Intelligence Research"
+      url: "http://bair.berkeley.edu/blog/"
+
+    - title: "The Gradient"
+      url: "https://thegradient.pub/"
+
+    - title: "Distill"
+      url: "https://distill.pub/"
+
+    - title: "Uber Blog"
+      url: "https://uber.github.io/"
+
+    - title: "Uber Engineering"
+      url: "https://eng.uber.com/"
+
+    - title: "Intel AI Blog"
+      url: "https://ai.intel.com/blog/"
+
+    - title: "Andrej Karpathy's Blog"
+      url: "https://karpathy.github.io/"
+
+    - title: "Sebastian Ruder's blogs"
+      url: "http://ruder.io/"
+
+    - title: "Ferenc Huszár's blogs"
+      url: "http://www.inference.vc/"
+
+    - title: "deepsense Blog"
+      url: "blog.deepsense.ai"
+
+    - title: "Paperspace Blog"
+      url: "https://blog.paperspace.com/"
+
+    - title: "The AI Revolution: The Road to Superintelligence"
+      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
+
+    - title: "The AI Revolution: Our Immortality or Extinction"
+      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"
+
+    - title: "Intuitive RL: Intro to Advantage-Actor-Critic (A2C)"
+      url: "https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752"
+
+    - title: "Deep Reinforcement Learning Doesn't Work Yet"
+      url: "https://www.alexirpan.com/2018/02/14/rl-hard.html"
+
+    - title: "Object Recognition for Dummies Part 3"
+      url: "https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html#yolo-you-only-look-once"
+
+    - title: "An Overview of ResNet and its Variants"
+      url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
+
+    - title: "Biological Neural Networks – Part I, Spiking Neurons"
+      url: "http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/"
+
+    - title: "Lessons Learned Reproducing a Deep Reinforcement Learning Paper"
+      url: "http://amid.fish/reproducing-deep-rl"
+
+    - title: "What do we learn from region based object detectors (Faster R-CNN, R-FCN, FPN)?"
+      url: "https://medium.com/@jonathan_hui/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9"
+
+    - title: "Dawnbeanch Fastai"
+      url: "http://www.fast.ai/2018/04/30/dawnbench-fastai/"
+
+    - title: "Object Detection Resources Collection"
+      url: "https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html"
+
+    - title: "Transfer Learning in NLP"
+      url: "https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing"
+
+    - title: "Lil'Log"
+      url: "https://lilianweng.github.io/lil-log/"
+
+    - title: "Sam's Academic Blog"
+      url: "https://sgfin.github.io/learning-resources/"
+
     - title: "Official PyTorch Tutorials"
       url: "http://pytorch.org/tutorials"
 
@@ -115,8 +202,26 @@
     - title: "A Comprehensive Introduction to Different Types of Convolutions in Deep Learning"
       url: "https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215"
 
-      title: "Weight Initialization"
+    - title: "Weight Initialization"
       url: "https://www.deeplearning.ai/ai-notes/initialization/"
+
+    -  title: "Language, trees, and geometry in neural networks"
+      url: "https://pair-code.github.io/interpretability/bert-tree/"
+
+    - title: "Weight Agnostic Neural Networks"
+      url: "https://weightagnostic.github.io/"
+
+    - title: "Neural Network Bias"
+      url: "http://guillefix.me/nnbias/"
+
+    - title: "How Transformers Work"
+      url: "https://towardsdatascience.com/transformers-141e32e69591"
+
+    - title: "The Illustrated Transformer"
+      url: "http://jalammar.github.io/illustrated-transformer/"
+
+    - title: "Understand Deep Learning In One Day"
+      url: "https://www.slideshare.net/tw_dsconf/ss-62245351"
 
 
 - title: "Source Code"
@@ -196,6 +301,9 @@
     - title: "Atari Model Zoo (Uber)"
       url: "https://github.com/uber-research/atari-model-zoo"
 
+    - title: "Deep Learning Models"
+      url: "https://github.com/rasbt/deeplearning-models"
+
 - title: "Pretrained Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
@@ -260,96 +368,6 @@
 
     - title: ""
       url: ""
-
-
-- title: "Blogs"
-  sublinks:
-    - title: "Google Research"
-      url: "https://ai.googleblog.com/"
-
-    - title: "Facebook Research"
-      url: "https://research.fb.com"
-
-    - title: "DeepMind News & Blog"
-      url: "https://deepmind.com/blog/"
-
-    - title: "OpenAI Blog"
-      url: "https://blog.openai.com/"
-
-    - title: "Berkeley Artificial Intelligence Research"
-      url: "http://bair.berkeley.edu/blog/"
-
-    - title: "The Gradient"
-      url: "https://thegradient.pub/"
-
-    - title: "Distill"
-      url: "https://distill.pub/"
-
-    - title: "Uber Blog"
-      url: "https://uber.github.io/"
-
-    - title: "Uber Engineering"
-      url: "https://eng.uber.com/"
-
-    - title: "Intel AI Blog"
-      url: "https://ai.intel.com/blog/"
-
-    - title: "Andrej Karpathy's Blog"
-      url: "https://karpathy.github.io/"
-
-    - title: "Sebastian Ruder's blogs"
-      url: "http://ruder.io/"
-
-    - title: "Ferenc Huszár's blogs"
-      url: "http://www.inference.vc/"
-
-    - title: "deepsense Blog"
-      url: "blog.deepsense.ai"
-
-    - title: "Paperspace Blog"
-      url: "https://blog.paperspace.com/"
-
-    - title: "The AI Revolution: The Road to Superintelligence"
-      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
-
-    - title: "The AI Revolution: Our Immortality or Extinction"
-      url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"
-
-    - title: "Intuitive RL: Intro to Advantage-Actor-Critic (A2C)"
-      url: "https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752"
-
-    - title: "Deep Reinforcement Learning Doesn't Work Yet"
-      url: "https://www.alexirpan.com/2018/02/14/rl-hard.html"
-
-    - title: "Object Recognition for Dummies Part 3"
-      url: "https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html#yolo-you-only-look-once"
-
-    - title: "An Overview of ResNet and its Variants"
-      url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
-
-    - title: "Biological Neural Networks – Part I, Spiking Neurons"
-      url: "http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/"
-
-    - title: "Lessons Learned Reproducing a Deep Reinforcement Learning Paper"
-      url: "http://amid.fish/reproducing-deep-rl"
-
-    - title: "What do we learn from region based object detectors (Faster R-CNN, R-FCN, FPN)?"
-      url: "https://medium.com/@jonathan_hui/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9"
-
-    - title: "Dawnbeanch Fastai"
-      url: "http://www.fast.ai/2018/04/30/dawnbench-fastai/"
-
-    - title: "Object Detection Resources Collection"
-      url: "https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html"
-
-    - title: "Transfer Learning in NLP"
-      url: "https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing"
-
-    - title: "Lil'Log"
-      url: "https://lilianweng.github.io/lil-log/"
-
-    - title: "Sam's Academic Blog"
-      url: "https://sgfin.github.io/learning-resources/"
 
 
 - title: "Courses"
@@ -638,3 +656,9 @@
 
     - title: "AI Conference Deadlines"
       url: "https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM"
+
+    - title: "I don't know how CPUs work so I simulated one in code"
+      url: "https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/"
+
+    - title: "PyTorch Internals"
+      url: "http://blog.ezyang.com/2019/05/pytorch-internals/"
