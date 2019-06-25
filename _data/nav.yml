@@ -220,7 +220,7 @@
       url: "http://jalammar.github.io/illustrated-transformer/"
 
     - title: "Understand Deep Learning In One Day"
-      url: "https://www.slideshare.net/tw_dsconf/ss-62245351"
+      url: "https://www.slideshare.net/tw_dsconf/ss-62245351""
 
 
 - title: "Source Code"
@@ -661,3 +661,6 @@
 
     - title: "PyTorch Internals"
       url: "http://blog.ezyang.com/2019/05/pytorch-internals/"
+
+    - title: "PyRobot"
+      url: "https://www.pyrobot.org/
