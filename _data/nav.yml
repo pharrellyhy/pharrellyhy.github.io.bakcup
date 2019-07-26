@@ -482,6 +482,9 @@
     - title: "Microsoft Research Open Data"
       url: "https://msropendata.com/"
 
+    - title: "Lyft Level 5 Dataset"
+      url: "https://level5.lyft.com/dataset/"
+
 
 - title: "Books"
   sublinks:
