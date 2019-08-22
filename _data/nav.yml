@@ -225,6 +225,9 @@
     - title: "Myrtle ResNet Tutorials"
       url: "https://myrtle.ai/learn/"
 
+    - title: "Transformers from scratch"
+      url: "http://www.peterbloem.nl/blog/transformers"
+
 - title: "Source Code"
   sublinks:
     - title: "TensorLayer"
