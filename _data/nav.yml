@@ -490,6 +490,9 @@
     - title: "Lyft Level 5 Dataset"
       url: "https://level5.lyft.com/dataset/"
 
+    - title: "Computer Vision Datasets"
+      url: "https://www.visualdata.io/"
+
 
 - title: "Books"
   sublinks:
