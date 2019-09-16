@@ -685,5 +685,5 @@
     - title: "Prodigy"
       url: "https://prodi.gy/"
 
-    -title: "Optimizing Tensorfloe Models for Serving"
+    - title: "Optimizing Tensorfloe Models for Serving"
       url: "https://medium.com/google-cloud/optimizing-tensorflow-models-for-serving-959080e9ddbf"
