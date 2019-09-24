@@ -493,6 +493,9 @@
     - title: "Computer Vision Datasets"
       url: "https://www.visualdata.io/"
 
+    - title: "MIMIC-CXR Database"
+      url: "https://physionet.org/content/mimic-cxr/2.0.0/"
+
 
 - title: "Books"
   sublinks:
