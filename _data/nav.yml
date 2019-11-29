@@ -430,11 +430,14 @@
     - title: "Machine Learning: Step-by-Step Guides"
       url: "https://machinelearningmastery.com/start-here/"
 
-    - title: "Introduction to Machine Learning (Berkely CS189/289A)"
+    - title: "Introduction to Machine Learning (Berkeley CS189/289A)"
       url: "https://people.eecs.berkeley.edu/~jrs/189/"
 
     - title: "Machine Learning for Intelligent Systems"
       url: "http://www.cs.cornell.edu/courses/cs4780/2018fa/"
+
+    - title: "Deep Unsupervised Learning (Berkeley CS294-158)"
+      url: "https://sites.google.com/view/berkeley-cs294-158-sp19/home"
 
 
 - title: "Talks"
