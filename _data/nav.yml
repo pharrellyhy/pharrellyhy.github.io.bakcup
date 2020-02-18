@@ -438,7 +438,9 @@
 
     - title: "Deep Unsupervised Learning (Berkeley CS294-158)"
       url: "https://sites.google.com/view/berkeley-cs294-158-sp19/home"
-
+    
+    - title: "2019 Berkeley Advanced Robotics (CS 287)"
+      url: "https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/"
 
 - title: "Talks"
   sublinks:
