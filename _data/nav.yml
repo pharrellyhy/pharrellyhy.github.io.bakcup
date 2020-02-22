@@ -442,6 +442,9 @@
     - title: "2019 Berkeley Advanced Robotics (CS 287)"
       url: "https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/"
 
+    - title: "The Missing Semester of Your CS Education"
+      url: "https://missing.csail.mit.edu/"
+
 - title: "Talks"
   sublinks:
     - title: "2018 ScaledML at Stanford"
