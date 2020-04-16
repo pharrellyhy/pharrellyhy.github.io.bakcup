@@ -228,6 +228,9 @@
     - title: "Transformers from scratch"
       url: "http://www.peterbloem.nl/blog/transformers"
 
+    - title: "OpenAI Microscope"
+      uril: "https://microscope.openai.com/models"
+
 - title: "Source Code"
   sublinks:
     - title: "TensorLayer"
@@ -308,10 +311,13 @@
     - title: "Deep Learning Models"
       url: "https://github.com/rasbt/deeplearning-models"
 
-- title: "Pretrained Models"
+- title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
       url: "https://github.com/Cadene/pretrained-models.pytorch"
+
+    #- title: "TensorFlow Object Detection Model Zoo"
+      #url: ""
 
 
 - title: "Papers"
