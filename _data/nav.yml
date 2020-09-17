@@ -234,6 +234,9 @@
     - title: "Which GPU(s) to Get for Deep Learning"
       url: "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
 
+    - title: "Derivation: Error Backpropagation & Gradient Descent for Neural Networks"
+      url: "https://dustinstansbury.github.io/theclevermachine/derivation-backpropagation"
+
 - title: "Source Code"
   sublinks:
     - title: "TensorLayer"
