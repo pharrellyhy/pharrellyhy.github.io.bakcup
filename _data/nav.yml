@@ -229,7 +229,10 @@
       url: "http://www.peterbloem.nl/blog/transformers"
 
     - title: "OpenAI Microscope"
-      uril: "https://microscope.openai.com/models"
+      url: "https://microscope.openai.com/models"
+
+    - title: "Which GPU(s) to Get for Deep Learning"
+      url: "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
 
 - title: "Source Code"
   sublinks:
@@ -379,6 +382,8 @@
     - title: "PapersWithCode Methods"
       url: "https://paperswithcode.com/methods"
 
+    - title: "Array Programming with Numpy"
+      url: "https://www.nature.com/articles/s41586-020-2649-2"
 
 - title: "Courses"
   sublinks:
