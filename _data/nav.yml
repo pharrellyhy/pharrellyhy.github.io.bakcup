@@ -237,6 +237,9 @@
     - title: "Derivation: Error Backpropagation & Gradient Descent for Neural Networks"
       url: "https://dustinstansbury.github.io/theclevermachine/derivation-backpropagation"
 
+    - title: "The Lottery Ticket Hypothesis: A Survey"
+      url: "https://roberttlange.github.io/posts/2020/06/lottery-ticket-hypothesis/"
+
 - title: "Source Code"
   sublinks:
     - title: "TensorLayer"
