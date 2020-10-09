@@ -462,6 +462,9 @@
     - title: "The Missing Semester of Your CS Education"
       url: "https://missing.csail.mit.edu/"
 
+    - title: "Deep Learning (NYU)"
+      url: "https://atcold.github.io/pytorch-Deep-Learning/"
+
 - title: "Talks"
   sublinks:
     - title: "2018 ScaledML at Stanford"
