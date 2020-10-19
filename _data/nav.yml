@@ -524,6 +524,9 @@
     - title: "MIMIC-CXR Database"
       url: "https://physionet.org/content/mimic-cxr/2.0.0/"
 
+    - title: "Flickr-Faces-HQ Dataset (FFHQ)"
+      url: "https://github.com/NVlabs/ffhq-dataset"
+
 
 - title: "Books"
   sublinks:
