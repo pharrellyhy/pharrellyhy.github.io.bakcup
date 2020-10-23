@@ -323,6 +323,9 @@
     - title: "Deep Learning Models"
       url: "https://github.com/rasbt/deeplearning-models"
 
+    - title: "Nvidia Deep Learning Examples"
+      url: "https://github.com/NVIDIA/DeepLearningExamples"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
@@ -330,7 +333,6 @@
 
     #- title: "TensorFlow Object Detection Model Zoo"
       #url: ""
-
 
 - title: "Papers"
   sublinks:
@@ -733,4 +735,7 @@
 
     - title: "Robosuite"
       url: "https://robosuite.ai/"
+
+    - title: "First Order Motion Model for Image Animation"
+      url: "https://aliaksandrsiarohin.github.io/first-order-model-website/"
 
