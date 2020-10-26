@@ -747,3 +747,9 @@
 
     - title: "Git: Best Practices"
       url: "https://sethrobertson.github.io/GitBestPractices/"
+
+    - title: "Bayesian Perspective on Q-Learning"
+      url: "https://brandinho.github.io/bayesian-perspective-q-learning/"
+
+    - title: "Object Detection at 1840 FPS with TorchScript, TensorRT and DeepStream"
+      url: "https://paulbridger.com/posts/video-analytics-deepstream-pipeline/"
