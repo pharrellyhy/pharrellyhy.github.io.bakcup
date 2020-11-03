@@ -753,3 +753,6 @@
 
     - title: "Object Detection at 1840 FPS with TorchScript, TensorRT and DeepStream"
       url: "https://paulbridger.com/posts/video-analytics-deepstream-pipeline/"
+
+    - title: "Comprehensive Python Cheatsheet"
+      url: "https://gto76.github.io/python-cheatsheet/"
