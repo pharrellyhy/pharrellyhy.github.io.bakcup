@@ -532,6 +532,9 @@
     - title: "Flickr-Faces-HQ Dataset (FFHQ)"
       url: "https://github.com/NVlabs/ffhq-dataset"
 
+    - title: "Objectron Dataset"
+      url: "https://www.objectron.dev"
+
 
 - title: "Books"
   sublinks:
