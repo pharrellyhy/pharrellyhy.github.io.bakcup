@@ -763,3 +763,8 @@
     - title: "AI Expert Roadmap"
       url: "https://github.com/AMAI-GmbH/AI-Expert-Roadmap"
 
+    - title: "CVAT"
+      url: "https://github.com/openvinotoolkit/cvat"
+
+    - title: "Vulkan Kompute"
+      url: "https://github.com/EthicalML/vulkan-kompute"
