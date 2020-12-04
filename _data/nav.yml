@@ -60,8 +60,11 @@
     - title: "Deep Reinforcement Learning Doesn't Work Yet"
       url: "https://www.alexirpan.com/2018/02/14/rl-hard.html"
 
-    - title: "Object Recognition for Dummies Part 3"
-      url: "https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html#yolo-you-only-look-once"
+    - title: "Object Recognition for Dummies Part 3: R-CNN Family"
+      url: "https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html"
+
+    - title: ""
+      url: "https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html"
 
     - title: "An Overview of ResNet and its Variants"
       url: "https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035"
@@ -243,7 +246,13 @@
     - title: "The Lottery Ticket Hypothesis: A Survey"
       url: "https://roberttlange.github.io/posts/2020/06/lottery-ticket-hypothesis/"
 
-- title: "Source Code"
+    - title: "Large-Scale Machine Learning"
+      url: "https://nthu-datalab.github.io/ml/slides/09_Large-Scale-ML.pdf"
+
+    - title: "Self-Supervised Representation Learning"
+      url: "https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html"
+
+- title: "Projects"
   sublinks:
     - title: "TensorLayer"
       url: "https://github.com/tensorlayer/tensorlayer"
@@ -326,13 +335,49 @@
     - title: "Nvidia Deep Learning Examples"
       url: "https://github.com/NVIDIA/DeepLearningExamples"
 
+    - title: "DETR"
+      url: "https://github.com/facebookresearch/detr"
+
+    - title: "U-2 Net"
+      url: "https://github.com/NathanUA/U-2-Net"
+
+    - title: "NCNN"
+      url: "https://github.com/Tencent/ncnn"
+
+    - title: "PyTorch Lightning"
+      url: "https://github.com/PyTorchLightning/pytorch-lightning"
+
+    - title: "TinyGrad"
+      url: "https://github.com/geohot/tinygrad"
+
+    - title: "Vid2Vid"
+      url: "https://github.com/NVIDIA/vid2vid"
+
+    - title: "pymc3"
+      url: "https://github.com/pymc-devs/pymc3"
+
+    - title: "pycls"
+      url: "https://github.com/facebookresearch/pycls"
+
+    - title: "EfficientDet"
+      url: "https://github.com/google/automl/tree/master/efficientdet"
+
+    - title: "TPU"
+      url: "https://github.com/tensorflow/tpu"
+
+    - title: "Deep High Resolution Net (PyTorch)"
+      url: "https://github.com/leoxiaobin/deep-high-resolution-net.pytorch"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
       url: "https://github.com/Cadene/pretrained-models.pytorch"
 
-    #- title: "TensorFlow Object Detection Model Zoo"
-      #url: ""
+    - title: "Pytorch Image Models"
+      url: "https://github.com/rwightman/pytorch-image-models"
+
+    - title: "TensorFlow Object Detection Model Zoo"
+      url: "https://github.com/tensorflow/models/tree/master/research/object_detection"
 
 - title: "Papers"
   sublinks:
@@ -774,3 +819,24 @@
 
     - title: "Awesome Semantic Segmentation"
       url: "https://github.com/mrgloom/awesome-semantic-segmentation"
+
+    - title: "How to Write a Git Commit Message"
+      url: "https://chris.beams.io/posts/git-commit/"
+
+    - title: "Tiny Machine Learning"
+      url: "https://hanlab.mit.edu/projects/tinyml/"
+
+    - title: "Vim productive tricks"
+      url: "https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/"
+
+    - title: "The C++ 'const' Declaration: Why & How"
+      url: "http://duramecho.com/ComputerInformation/WhyHowCppConst.html"
+
+    - title: "Visualize Tensorflow Metrics in Kibana"
+      url: "https://medium.com/fourthline-tech/how-to-visualize-tensorflow-metrics-in-kibana-761268353ca3"
+
+    - title: "Google Python Style Guide"
+      url: "https://google.github.io/styleguide/pyguide.html"
+
+    - title: "Google C++ Style Guide"
+      url: "https://google.github.io/styleguide/cppguide.html"
