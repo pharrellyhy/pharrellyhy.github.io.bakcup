@@ -252,6 +252,9 @@
     - title: "Self-Supervised Representation Learning"
       url: "https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html"
 
+    - title: "PyTorch Style Guide"
+      url: "https://github.com/IgorSusmelj/pytorch-styleguide"
+
 - title: "Projects"
   sublinks:
     - title: "TensorLayer"
@@ -840,3 +843,23 @@
 
     - title: "Google C++ Style Guide"
       url: "https://google.github.io/styleguide/cppguide.html"
+
+    - title: "Ted Gioia"
+      url: "http://tedgioia.com/music.html"
+
+    - title: "Top 10 Python Libraries - 2020"
+      url: "https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/"
+
+- title: "Q&A"
+  sublinks:
+    - title: "What's your personal python development stack"
+      url: "https://www.reddit.com/r/Python/comments/k9i0pt/whats_your_personal_python_development_stack/"
+
+    - title: "What's your most productive shortcut with vim"
+      url: "https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/"
+
+    - title: "Vim tips and tricks"
+      url: "https://www.reddit.com/r/vim/comments/kdjajl/share_your_vim_tips_and_tricks_that_you_have/"
+
+    - title: "Reflections on AI/ML powered startups 2010-2020"
+      url: "https://www.reddit.com/r/MachineLearning/comments/kenp8q/d_reflections_on_aiml_powered_startups_20102020/"
