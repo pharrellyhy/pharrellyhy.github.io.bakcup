@@ -255,6 +255,9 @@
     - title: "PyTorch Style Guide"
       url: "https://github.com/IgorSusmelj/pytorch-styleguide"
 
+    - title: "Numpy Illustrated - Visual Guide"
+      url: "https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d"
+
 - title: "Projects"
   sublinks:
     - title: "TensorLayer"
@@ -370,6 +373,15 @@
 
     - title: "Deep High Resolution Net (PyTorch)"
       url: "https://github.com/leoxiaobin/deep-high-resolution-net.pytorch"
+
+    - title: "Data-efficient Image Transformers"
+      url: "https://github.com/facebookresearch/deit"
+
+    - title: "Typer"
+      url: "https://github.com/tiangolo/typer"
+
+    - title: "Rich"
+      url: "https://github.com/willmcgugan/rich"
 
 - title: "Models"
   sublinks:
