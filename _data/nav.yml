@@ -258,6 +258,9 @@
     - title: "Numpy Illustrated - Visual Guide"
       url: "https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d"
 
+    - title: "Which Optimizer should I use for my ML Project"
+      url: "https://lightly.ai/post/which-optimizer-should-i-use-for-my-machine-learning-project"
+
 - title: "Projects"
   sublinks:
     - title: "TensorLayer"
@@ -861,6 +864,18 @@
 
     - title: "Top 10 Python Libraries - 2020"
       url: "https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/"
+
+    - title: "PC Part Picker"
+      url: "https://pcpartpicker.com/"
+
+    - title: "Daft Island"
+      url: "https://daftisland.netlify.app"
+
+    - title: "Scroller"
+      url: "https://scrolller.com"
+
+    - title: "Machine Learning is going real-time"
+      url: "https://huyenchip.com/2020/12/27/real-time-machine-learning.html"
 
 - title: "Q&A"
   sublinks:
