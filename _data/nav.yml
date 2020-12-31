@@ -386,6 +386,9 @@
     - title: "Rich"
       url: "https://github.com/willmcgugan/rich"
 
+    - title: "InsightFace"
+      url: "https://github.com/deepinsight/insightface"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
@@ -876,6 +879,12 @@
 
     - title: "Machine Learning is going real-time"
       url: "https://huyenchip.com/2020/12/27/real-time-machine-learning.html"
+
+    - title: "A Vim Guide for Intermediate Users"
+      url: "https://thevaluable.dev/vim-intermediate/"
+
+    - title: "Loss Functions for Image Segmentation"
+      url: "https://github.com/JunMa11/SegLoss"
 
 - title: "Q&A"
   sublinks:
