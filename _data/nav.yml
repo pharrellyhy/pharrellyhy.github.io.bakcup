@@ -383,11 +383,29 @@
     - title: "Typer"
       url: "https://github.com/tiangolo/typer"
 
+    - title: "FastAPI"
+      url: "https://github.com/tiangolo/fastapi"
+
     - title: "Rich"
       url: "https://github.com/willmcgugan/rich"
 
     - title: "InsightFace"
       url: "https://github.com/deepinsight/insightface"
+
+    - title: "Probabilistic Machine Learning"
+      url: "https://github.com/probml/pyprobml"
+
+    - title: "OpenMMLab - MMDetection"
+      url: "https://github.com/open-mmlab/mmdetection"
+
+    - title: "OpenMMLab - MMTracking"
+      url: "https://github.com/open-mmlab/mmtracking"
+
+    - title: "PaddleDetection"
+      url: "https://github.com/PaddlePaddle/PaddleDetection"
+
+    - title: "FairMOT"
+      url: "https://github.com/ifzhang/FairMOT"
 
 - title: "Models"
   sublinks:
@@ -885,6 +903,9 @@
 
     - title: "Loss Functions for Image Segmentation"
       url: "https://github.com/JunMa11/SegLoss"
+
+    - title: "Object Detection at 2530 FPS with TensorRT and 8-bit Quantization"
+      url: "https://paulbridger.com/posts/tensorrt-object-detection-quantized/"
 
 - title: "Q&A"
   sublinks:
