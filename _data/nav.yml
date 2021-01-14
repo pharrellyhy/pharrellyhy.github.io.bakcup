@@ -407,6 +407,9 @@
     - title: "FairMOT"
       url: "https://github.com/ifzhang/FairMOT"
 
+    - title: "Mesh Tensorflow"
+      url: "https://github.com/tensorflow/mesh"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
@@ -479,6 +482,12 @@
 
     - title: "Array Programming with Numpy"
       url: "https://www.nature.com/articles/s41586-020-2649-2"
+
+    - title: "Human-level control through deep reinforcement learning"
+      url: "https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf"
+
+    - title: "OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER"
+      url: "https://arxiv.org/pdf/1701.06538.pdf"
 
 - title: "Courses"
   sublinks:
