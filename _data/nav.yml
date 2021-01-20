@@ -410,6 +410,9 @@
     - title: "Mesh Tensorflow"
       url: "https://github.com/tensorflow/mesh"
 
+    - title: "SimCLR"
+      url: "https://github.com/google-research/simclr"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
@@ -915,6 +918,9 @@
 
     - title: "Object Detection at 2530 FPS with TensorRT and 8-bit Quantization"
       url: "https://paulbridger.com/posts/tensorrt-object-detection-quantized/"
+
+    - title: "Color Space Conversions"
+      url: "https://poynton.ca/PDFs/coloureq.pdf"
 
 - title: "Q&A"
   sublinks:
