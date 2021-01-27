@@ -261,6 +261,9 @@
     - title: "Which Optimizer should I use for my ML Project"
       url: "https://lightly.ai/post/which-optimizer-should-i-use-for-my-machine-learning-project"
 
+    - title: "ZeRO-Offloading"
+      url: "https://efficientdl.com/an-introduction-to-zero-offloading/"
+
 - title: "Projects"
   sublinks:
     - title: "TensorLayer"
@@ -412,6 +415,24 @@
 
     - title: "SimCLR"
       url: "https://github.com/google-research/simclr"
+
+    - title: "Deformable-DETR"
+      url: "https://github.com/fundamentalvision/Deformable-DETR"
+
+    - title: "TransTrack"
+      url: "https://github.com/PeizeSun/TransTrack"
+
+    - title: "Neural Network Intelligence"
+      url: "https://github.com/microsoft/nni"
+
+    - title: "FaceX Zoo"
+      url: "https://github.com/JDAI-CV/FaceX-Zoo"
+
+    - title: "MicroPython"
+      url: "https://github.com/micropython/micropython"
+
+    - title: "CircuitPython"
+      url: "https://github.com/adafruit/circuitpython"
 
 - title: "Models"
   sublinks:
@@ -661,6 +682,11 @@
     - title: "Algorithms - Jeff Erickson"
       url: "http://jeffe.cs.illinois.edu/teaching/algorithms/"
 
+    - title: "Applications of Deep Neural Networks"
+      url: "https://arxiv.org/pdf/2009.05673.pdf"
+
+    - title: "Dive into Deep Learning"
+      url: "https://d2l.ai"
 
 - title: "Misc"
   sublinks:
@@ -921,6 +947,9 @@
 
     - title: "Color Space Conversions"
       url: "https://poynton.ca/PDFs/coloureq.pdf"
+
+    - title: "Vim-ftplugin"
+      url: "https://github.com/vim/vim/tree/master/runtime/ftplugin"
 
 - title: "Q&A"
   sublinks:
