@@ -264,6 +264,9 @@
     - title: "ZeRO-Offloading"
       url: "https://efficientdl.com/an-introduction-to-zero-offloading/"
 
+    - title: "Detecting Rotated Objects Using the NVIDIA Object Detection Toolkit"
+      url: "https://developer.nvidia.com/blog/detecting-rotated-objects-using-the-odtk/"
+
 - title: "Projects"
   sublinks:
     - title: "TensorLayer"
@@ -433,6 +436,12 @@
 
     - title: "CircuitPython"
       url: "https://github.com/adafruit/circuitpython"
+
+    - title: "Pyre"
+      url: "https://github.com/facebook/pyre-check"
+
+    - title: "Pyright"
+      url: "https://github.com/microsoft/pyright"
 
 - title: "Models"
   sublinks:
@@ -950,6 +959,9 @@
 
     - title: "Vim-ftplugin"
       url: "https://github.com/vim/vim/tree/master/runtime/ftplugin"
+
+    - title: "Programming Fonts"
+      url: "https://www.programmingfonts.org"
 
 - title: "Q&A"
   sublinks:
