@@ -443,6 +443,12 @@
     - title: "Pyright"
       url: "https://github.com/microsoft/pyright"
 
+    - title: "Faiss"
+      url: "https://github.com/facebookresearch/faiss"
+
+    - title: "Milvus"
+      url: "https://github.com/milvus-io/milvus"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
