@@ -267,6 +267,9 @@
     - title: "Detecting Rotated Objects Using the NVIDIA Object Detection Toolkit"
       url: "https://developer.nvidia.com/blog/detecting-rotated-objects-using-the-odtk/"
 
+    - title: "A simple solution for monitoring ML systems"
+      url: "https://www.jeremyjordan.me/ml-monitoring/"
+
 - title: "Projects"
   sublinks:
     - title: "TensorLayer"
@@ -449,6 +452,9 @@
     - title: "Milvus"
       url: "https://github.com/milvus-io/milvus"
 
+    - title: "SENSE"
+      url: "https://github.com/TwentyBN/sense"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
@@ -527,6 +533,9 @@
 
     - title: "OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER"
       url: "https://arxiv.org/pdf/1701.06538.pdf"
+
+    - title: "Knowledge Distillation: A Survey"
+      url: "https://arxiv.org/pdf/2006.05525.pdf"
 
 - title: "Courses"
   sublinks:
@@ -968,6 +977,12 @@
 
     - title: "Programming Fonts"
       url: "https://www.programmingfonts.org"
+
+    - title: "An Introduction to CI/CD Best Practices"
+      url: "https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices"
+
+    - title: "Bitcoin Energy Consumption"
+      url: "https://digiconomist.net/bitcoin-energy-consumption"
 
 - title: "Q&A"
   sublinks:
