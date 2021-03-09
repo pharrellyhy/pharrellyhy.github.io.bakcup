@@ -270,6 +270,9 @@
     - title: "A simple solution for monitoring ML systems"
       url: "https://www.jeremyjordan.me/ml-monitoring/"
 
+    - title: "DeepSORT — Deep Learning applied to Object Tracking"
+      url: "https://augmentedstartups.medium.com/deepsort-deep-learning-applied-to-object-tracking-924f59f99104"
+
 - title: "Projects"
   sublinks:
     - title: "TensorLayer"
@@ -455,6 +458,18 @@
     - title: "SENSE"
       url: "https://github.com/TwentyBN/sense"
 
+    - title: "DeepSpeed"
+      url: "https://github.com/microsoft/DeepSpeed/"
+
+    - title: "nuScenes devkit"
+      url: "https://github.com/nutonomy/nuscenes-devkit"
+
+    - title: "Gradient Free Optimizers"
+      url: "https://github.com/SimonBlanke/Gradient-Free-Optimizers"
+
+    - title: "tf-slim"
+      url: "https://github.com/google-research/tf-slim"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
@@ -536,6 +551,12 @@
 
     - title: "Knowledge Distillation: A Survey"
       url: "https://arxiv.org/pdf/2006.05525.pdf"
+
+    - title: "DEEP LEARNING IN VIDEO MULTI-OBJECT TRACKING: A SURVEY"
+      url: "https://arxiv.org/pdf/1907.12740.pdf"
+
+    - title: "Stacked Hourglass Networks for Human Pose Estimation"
+      url: "https://arxiv.org/pdf/1603.06937v2.pdf"
 
 - title: "Courses"
   sublinks:
@@ -984,6 +1005,21 @@
     - title: "Bitcoin Energy Consumption"
       url: "https://digiconomist.net/bitcoin-energy-consumption"
 
+    - title: "Common Nginx Misconfigurations"
+      url: "https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/"
+
+    - title: "redbean - single-file distributable web server"
+      url: "https://justine.lol/redbean/index.html"
+
+    - title: "A Vim Guide for Advanced Users"
+      url: "https://thevaluable.dev/vim-advanced/"
+
+    - title: "How Python bytecode is executed"
+      url: "https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/"
+
+    - title: "Why Nuclear Power Must Be Part of the Energy Solution Environmentalists Climate"
+      url: "https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate"
+
 - title: "Q&A"
   sublinks:
     - title: "What's your personal python development stack"
@@ -997,3 +1033,20 @@
 
     - title: "Reflections on AI/ML powered startups 2010-2020"
       url: "https://www.reddit.com/r/MachineLearning/comments/kenp8q/d_reflections_on_aiml_powered_startups_20102020/"
+
+    - title: "What exactly are iterator, iterable and iteration?"
+      url: "https://stackoverflow.com/questions/9884132/what-exactly-are-iterator-iterable-and-iteration"
+
+- title: "VCs"
+  sublinks:
+    - title: "BRIDGEWATER"
+      url: "https://www.bridgewater.com"
+
+    - title: "greylock"
+      url: "https://greylock.com"
+
+    - title: "Y Combinator"
+      url: "https://www.ycombinator.com"
+
+    - title: "Sequoia Capital"
+      url: "https://www.sequoiacap.com"
