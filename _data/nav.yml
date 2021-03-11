@@ -470,6 +470,9 @@
     - title: "tf-slim"
       url: "https://github.com/google-research/tf-slim"
 
+    - title: "Learning High Fidelity Depths of Dressed Humans"
+      url: "https://github.com/yasaminjafarian/HDNet_TikTok"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
