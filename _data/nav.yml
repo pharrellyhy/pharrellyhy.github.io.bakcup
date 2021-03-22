@@ -473,6 +473,18 @@
     - title: "Learning High Fidelity Depths of Dressed Humans"
       url: "https://github.com/yasaminjafarian/HDNet_TikTok"
 
+    - title: "StyleGan2 ADA"
+      url: "https://github.com/NVlabs/stylegan2-ada"
+
+    - title: "Modular Interactive Video Object Segmentation"
+      url: "https://github.com/hkchengrex/MiVOS"
+
+    - title: "Awesome Pretrained Stylegan2"
+      url: "https://github.com/justinpinkney/awesome-pretrained-stylegan2"
+
+    - title: "GPT-Neo"
+      url: "https://github.com/EleutherAI/gpt-neo/"
+
 - title: "Models"
   sublinks:
     - title: "Pretrained models for PyTorch"
@@ -1022,6 +1034,21 @@
 
     - title: "Why Nuclear Power Must Be Part of the Energy Solution Environmentalists Climate"
       url: "https://e360.yale.edu/features/why-nuclear-power-must-be-part-of-the-energy-solution-environmentalists-climate"
+
+    - title: "wait-for-it"
+      url: "https://github.com/vishnubob/wait-for-it"
+
+    - title: "Docker Compose from Development to Production"
+      url: "https://medium.com/softonic-eng/docker-compose-from-development-to-production-88000124a57c"
+
+    - title: "git rebase in depth"
+      url: "https://git-rebase.io"
+
+    - title: "Outrun: Execute a local command using the processing power of another Linux machine"
+      url: "https://github.com/Overv/outrun"
+
+    - title: "gpu land"
+      url: "https://gpu.land"
 
 - title: "Q&A"
   sublinks:
